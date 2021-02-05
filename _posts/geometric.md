@@ -29,7 +29,7 @@ While the typical mathematics course will help remind you of how these work by c
 
 The arithmetic sequence, on the other hand, is a sterile one, a steady march by which gains are made begrudgingly and uninterestingly, if at all. There are no network effects. This does not describe a natural process.
 
-Interestingly, this is further reflected by the etymology of these terms. Both terms have their origins in greek: 'geometry', or γεομετρια (γε 'earth', μετρια 'measure') regarding the surveying of land and nature; 'arithmetic' or αριθμητικη (art of counting).
+Interestingly, this is further reflected by the etymology of these terms. Both terms have their origins in greek: 'geometry', or *γεομετρια* (γε 'earth', μετρια 'measure') regarding the surveying of land and nature; 'arithmetic' or *αριθμητικη* (art of counting).
 
 The error of the arithmetic mindset is made even more apparent when we flip the progression in the other direction, however.
 
@@ -43,9 +43,9 @@ As far as describing physical phenomena, the former makes much more sense than t
 
 Let's take this into two dimensions. A dimension is simply an orthogonal axis, an axis that varies independently of the first. Let's consider the ratio 2 for some geometric series and arithmetic series.
 
-Geometric: A = 2, 4, 8, 16, 32; B = 3, 6, 12, 24, 48
+Geometric: `A = 2, 4, 8, 16, 32; B = 3, 6, 12, 24, 48`
 
-Arithmetic: A = 2, 4, 6, 8, 10; B = 3, 5, 7, 9, 11
+Arithmetic: `A = 2, 4, 6, 8, 10; B = 3, 5, 7, 9, 11`
 
 We can visualize the effects that these two dimensions have on each other if we consider them as lengths of the legs of a right triangle. If you have some graph paper, feel free to plot it for yourself.
 
@@ -55,7 +55,7 @@ If we were to continue these series on, both do indeed continue growing unceasin
 
 *Conclusion A: If all dimensions are geometric, the relationship between them does not change.*
 
-*Conclusion B: If all dimensions are arithmetic, the relationship between them changes, and converges, but never approaches, unity.*
+*Conclusion B: If all dimensions are arithmetic, the relationship between them changes, and approaches, but never converges to, unity.*
 
 The keen eye would see that there are more possibilities, though.
 
@@ -63,7 +63,7 @@ The keen eye would see that there are more possibilities, though.
 
 From series analysis we know that this is true even if the ratio for the arithmetic is higher than the geometric. The arithmetic may have a short-run advance if its ratio is sufficiently high, but there is some point at which it dominates.
 
-Where are we going with this? Early ‘western’ (modern 'near east') thinkers recognized the link between morality and beauty- and as such, were keen to the link that morality would have with proportion.
+Where are we going with this? Early ‘western’ (modern 'near east') thinkers recognized the link between morality and beauty- and as such, were keen to the link that morality would have with proportion. It has been said that sin is an aspiration to that which is not possible- mirroring the approaching-but-not-converging nature of an arithmetic-arithmetic ratio.
 
 ## Politics
 
@@ -95,28 +95,46 @@ Arithmetic thinkers will often criticize the present distributions. They will ra
 
 She’s beautiful, isn’t she?
 
-The delight of this ratio is that squares of proportionately larger diameter can be arranged together to form a structure without gaps. It is not only geometric thinking that enables this, but also the correct proportion. The role of the geometric thinker cannot be merely to rebuke the arithmetic-minded, but to show them that a ratio which could accomplish just ends does exist. I do not argue that there is something about φ which is imbued in every circumstance- φ happens to work for nesting boxes, but will not work for other problems.
+The delight of this ratio is that squares of proportionately larger diameter can be arranged together to form a structure without gaps. It is not only geometric thinking that enables this, but also the correct proportion. The role of the geometric thinker cannot be merely to rebuke the arithmetic-minded, but to show them that a ratio which could accomplish just ends does exist. I do not argue that there is something about φ which is imbued in every circumstance- *φ* happens to work for packing boxes in this fashion (among other recursive patterns), but will not work for all problems.
 
 The only ratio which the arithmetic-minded can comprehend is one-to-one, and even that, they must at some point recognize as unstable at best and impossible at worst. The rigidity of their ratio disallows any natural flourishing in nearly all cases. Nothing natural has a ratio of one. Even the ameoba can reproduce multiple times.
 
+## Room for Imagination
+
+You probably have heard of the _Cult of Pythagoras_. These swell fellows were of the belief that all numbers could be represented as integers, or fractions thereof. We today would call these _rational_ numbers. It's plain to see how would would imagine they could exist. Heresy, to these fellows, came in when geometry was introduced. We're familiar with the pythagorean theorem,
+
+`a^2 + b^2 = c^2`,
+
+"The sum of the squares of a right triangle's legs equals the sum of it's hypotenuse."
+
+However, we know now that the solutions to `y = x^2` are of the form `x = sqrt(y)`, which are generally _irrational_ numbers. They cannot be represented as fractions. Indeed, the poor arithmetic-minded cultists of pythagoras could not take the leap of faith required to accept an _irrational_ solution even when the necessity stared them in the face. We see this today in new-atheist types, who having reduced the world so far down to an essential motive force that you could call God, refuse to call it God or at least treat it as such. Their a priori 'rational' framework doesn't allow them the freedom for such concepts.
+
+Geometric thinkers, even if they did not admit that the square root of 5 was a number, would nonetheless admit that the side length of a hypotenuse was _real_, existent, and useful to speak of. We see this a lot in the post-new-atheist types (e.g. Peterson), who recognize that you must call it God, even if not canonical and real in the same sense the rest of reality is.
+
+The geometric mindset is a playful one which seeks the unknown and mystical.
+
 ## Manifestations
 
-Following along? Not sure how the hell this connects to the material world? Here's some examples of geometry:
+Still not sure what I'm getting at? Here's a cheat sheet.
 
+Geometric:
+
+- Flourishing ("flowering out")
 - The traditional family across multiple generations
 - Reinvestment of labor and wealth
 - Spread of ideas by network effects
 - Learning from tradition
-- "Big Bang" theory (which is indistinguishable from Creationism)
+- "Big Bang" theory (or Creationism)
 - Charity and free sowing of seed
 
-And from arithmetic thinking:
+Arithmetic:
 
+- Sustinence
 - Replacement populations
 - Universal Income
 - Extraction of surplus value; usury
 - Ignorance of history
-- Steady-state universe
+- Steady-state universe theory
 - Stinginess and hoarding
 
 ... among many more examples. You have a brain. Think geometrically, and all will be clearer.
