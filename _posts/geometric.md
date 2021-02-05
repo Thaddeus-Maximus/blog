@@ -14,13 +14,18 @@ The development of early western philosophy is undoubtedly intertwined with math
 
 You may recall from your math classes, or from calculus two, geometric series and arithmetic series.
 
-As a reminder:
+## Approach
 
-a geometric series is one where the next number is some constant multiple (a ratio, or proportion) of the previous, e.g. 1, 3, 9, 27, 81, 243
+A *geometric* series is one where the next number is some constant *multiple* (a ratio, or proportion) of the previous, e.g.:
+`1, 3, 9, 27, 81, 243`
 
-A arithmetic series is one where the next number is some constant additive of the previous, e.g. 2, 4, 6, 8, 10, 12, 14
+An *arithmetic* series is one where the next number is some constant *additive* of the previous, e.g.:
+`2, 4, 6, 8, 10, 12, 14`
 
-While the typical mathematics course will help remind you of how these work by creating stories such as "One Grain of Rice", the relation is actually inverse- the story emerges from the series, not the series from the story. The geometric series has many manifestations, all of which could be considered natural, from the Latin "nasci", meaning to give birth. One begets two, the two beget four, the four beget eight; a flowering out by which the entire space may be filled even as the originals die off.
+
+![](/assets/images/geo_arith_plot.jpg)
+
+While the typical mathematics course will help remind you of how these work by creating stories such as "One Grain of Rice", the relation is actually inverse- the story emerges from the series, not the series from the story. The geometric series has many manifestations, all of which could be considered natural, from the Latin _"nasci"_, meaning to give birth. One begets two, the two beget four, the four beget eight; a flowering out by which the entire space may be filled even as the originals die off.
 
 The arithmetic sequence, on the other hand, is a sterile one, a steady march by which gains are made begrudgingly and uninterestingly, if at all. There are no network effects. This does not describe a natural process.
 
@@ -28,11 +33,13 @@ Interestingly, this is further reflected by the etymology of these terms. Both t
 
 The error of the arithmetic mindset is made even more apparent when we flip the progression in the other direction, however.
 
-Geometric series: 1, 1/2, 1/4, 1/8, 1/16
+Geometric series: `1, 1/2, 1/4, 1/8, 1/16`
 
-Arithmetic series: 1, 0, -1, -2, -3...
+Arithmetic series: `1, 0, -1, -2, -3...`
 
 As far as describing physical phenomena, the former makes much more sense than the latter: negative quantities do not exist, or at least, are unsustainable debts which must be repaid. The geometric series, however, can infinitely collapse and converge upon an essential truth.
+
+## Interactions
 
 Let's take this into two dimensions. A dimension is simply an orthogonal axis, an axis that varies independently of the first. Let's consider the ratio 2 for some geometric series and arithmetic series.
 
@@ -46,17 +53,19 @@ In the geometric series, the ratio progresses from 2:3 to 32:48 (which, if you n
 
 If we were to continue these series on, both do indeed continue growing unceasingly, but the ratios diverge. The geometric ratio always remains constant. However, with an arithmetic ratio, the ratio converges to unity.
 
-Conclusion A: If all dimensions are geometric, the relationship between them does not change.
+*Conclusion A: If all dimensions are geometric, the relationship between them does not change.*
 
-Conclusion B: If all dimensions are arithmetic, the relationship between them changes, and converges, but never approaches, unity.
+*Conclusion B: If all dimensions are arithmetic, the relationship between them changes, and converges, but never approaches, unity.*
 
 The keen eye would see that there are more possibilities, though.
 
-Conclusion C: If one dimension is geometric, and the other arithmetic, the relationship between them diverges, in favor of the geometric.
+*Conclusion C: If one dimension is geometric, and the other arithmetic, the relationship between them diverges, in favor of the geometric.*
 
 From series analysis we know that this is true even if the ratio for the arithmetic is higher than the geometric. The arithmetic may have a short-run advance if its ratio is sufficiently high, but there is some point at which it dominates.
 
-Where are we going with this? Early ‘western’ (in the modern ‘near east’) thinkers recognized the link between morality and beauty- and as such, were keen to the link that morality would have with proportion. "Beauty will save the world" quoth Dostoevsky, recognizing the immense draw which justice's fruit of beauty possesses.
+Where are we going with this? Early ‘western’ (modern 'near east') thinkers recognized the link between morality and beauty- and as such, were keen to the link that morality would have with proportion.
+
+## Politics
 
 The co-option of the term 'progressive' by some politicians and progressives is quite regrettable, as we can clearly see now there are many ways in which to 'progress'. Save for the anti-natalists, verily, all people desire progression, at least in the form of begetting replacement offspring. The question is, by which algorithm?
 
@@ -74,13 +83,15 @@ Riffing on conclusion C, the arithmetic mindset is ultimately doomed if not alon
 
 The geometric mindset, being natural, cannot be extinguished- only ran foolishly against. "Whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them." - Matthew 13:12
 
-3→6→12→24→48
+`3 → 6 → 12 → 24 → 48`
 
--1→-2→-4→-16→-32
+`-1 → -2 → -4 → -16 → -32`
 
 The arithmetic sympathizers do have one option, though, and that is to eliminate all traces of geometric progression. It is only in the utter rejection of all proportion and ratio that the arithmetic approach can stand any chance. It may at times 'embrace' a geometric sense of beauty, but it will seek to add and 'extend' (extension is clearly a different process than multiplication), and ultimately 'extinguish'.
 
-Arithmetic thinkers will often criticize the present distributions. They will rarely criticize the ratios, but instead focus on absolute discrepancies. The acknowledgement of ratio is itself a geometric idea. You may be well familiar with one such 'golden ratio', approximately 1.618, often by the symbol φ.
+Arithmetic thinkers will often criticize the present distributions. They will rarely criticize the ratios, but instead focus on absolute discrepancies. The acknowledgement of ratio is itself a geometric idea. You may be well familiar with one such 'golden ratio', approximately 1.618, often by the symbol *φ*.
+
+![](/assets/images/phi.jpg)
 
 She’s beautiful, isn’t she?
 
@@ -88,34 +99,26 @@ The delight of this ratio is that squares of proportionately larger diameter can
 
 The only ratio which the arithmetic-minded can comprehend is one-to-one, and even that, they must at some point recognize as unstable at best and impossible at worst. The rigidity of their ratio disallows any natural flourishing in nearly all cases. Nothing natural has a ratio of one. Even the ameoba can reproduce multiple times.
 
-Following along? Not sure how the hell this connects to the material world? Well, here’s some geometric manifestations:
+## Manifestations
 
-The traditional family across multiple generations
+Following along? Not sure how the hell this connects to the material world? Here's some examples of geometry:
 
-Reinvestment of labor and wealth
-
-Spread of ideas by network effects
-
-Learning from tradition
-
-Creationism, or “Big Bang” theory (pohtato, puhtato)
-
-Charity and free sowing of seed
+- The traditional family across multiple generations
+- Reinvestment of labor and wealth
+- Spread of ideas by network effects
+- Learning from tradition
+- "Big Bang" theory (which is indistinguishable from Creationism)
+- Charity and free sowing of seed
 
 And from arithmetic thinking:
 
-Replacement populations
+- Replacement populations
+- Universal Income
+- Extraction of surplus value; usury
+- Ignorance of history
+- Steady-state universe
+- Stinginess and hoarding
 
-Universal Income
-
-Extraction of surplus value; usury
-
-Ignorance of history
-
-Steady-state universe
-
-Stinginess and hoarding
-
-… among many more examples. You have a brain. Think geometrically, and all will be clearer.
+... among many more examples. You have a brain. Think geometrically, and all will be clearer.
 
 Can you think of other schemes than geometric and arithmetic? Sure! I invite you to think of them. I’d be interested to see your parallels.

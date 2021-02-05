@@ -5,7 +5,7 @@
     <link rel="alternate" href="https://blog.thadhughes.xyz/" />
     <link rel="self" href="https://blog.thadhughes.xyz/feed.xml" type="application/atom+xml" />
     <id>https://blog.thadhughes.xyz/</id>
-    <updated>2021-02-05T02:02:48Z</updated>
+    <updated>2021-02-05T02:44:36Z</updated>
 
     <author>
         <name>Thad Hughes</name>
@@ -15,15 +15,119 @@
 
     
         <entry>
-            <title>Designing for Competent Users</title>
-            <link rel="alternate" href="https://blog.thadhughes.xyz/competentusers/" type="text/html" />
-            <id>https://blog.thadhughes.xyz/competentusers/</id>
-            <updated>2021-02-05T01:51:17Z</updated>
+            <title>Geometric vs. Arithmetic Thinking</title>
+            <link rel="alternate" href="https://blog.thadhughes.xyz/geometric/" type="text/html" />
+            <id>https://blog.thadhughes.xyz/geometric/</id>
+            <updated>2021-02-05T02:43:09Z</updated>
 
-            <summary type="html">A lot of engineering designs revolve around not allowing the user to &amp;ldquo;do dumb things&amp;rdquo;. Honestly, this is a great thing to do. There are many cases, especially in protective equipment that is a matter of life and death, where the potential for harm is far, far too high.</summary>
-            <content type="html">&lt;p&gt;A lot of engineering designs revolve around not allowing the user to &amp;ldquo;do dumb things&amp;rdquo;. Honestly, this is a great thing to do. There are many cases, especially in protective equipment that is a matter of life and death, where the potential for harm is far, far too high.&lt;/p&gt;
+            <summary type="html">The development of early western philosophy is undoubtedly intertwined with mathematics, and in particular, geometry.</summary>
+            <content type="html">&lt;p&gt;The development of early western philosophy is undoubtedly intertwined with mathematics, and in particular, geometry.&lt;/p&gt;
 
-&lt;p&gt;However, legalism and holding human life as the highest good rather than something divine will always drag human life down, rather than lifting it up. We need danger. We need to be able to let our users have the chance to be competent.&lt;/p&gt;
+&lt;p&gt;You may recall from your math classes, or from calculus two, geometric series and arithmetic series.&lt;/p&gt;
+&lt;h2&gt;Approach&lt;/h2&gt;
+&lt;p&gt;A &lt;em&gt;geometric&lt;/em&gt; series is one where the next number is some constant &lt;em&gt;multiple&lt;/em&gt; (a ratio, or proportion) of the previous, e.g.:
+&lt;code&gt;1, 3, 9, 27, 81, 243&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;An &lt;em&gt;arithmetic&lt;/em&gt; series is one where the next number is some constant &lt;em&gt;additive&lt;/em&gt; of the previous, e.g.:
+&lt;code&gt;2, 4, 6, 8, 10, 12, 14&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/assets/images/geo_arith_plot.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;While the typical mathematics course will help remind you of how these work by creating stories such as &amp;ldquo;One Grain of Rice&amp;rdquo;, the relation is actually inverse- the story emerges from the series, not the series from the story. The geometric series has many manifestations, all of which could be considered natural, from the Latin &lt;em&gt;&amp;ldquo;nasci&amp;rdquo;&lt;/em&gt;, meaning to give birth. One begets two, the two beget four, the four beget eight; a flowering out by which the entire space may be filled even as the originals die off.&lt;/p&gt;
+
+&lt;p&gt;The arithmetic sequence, on the other hand, is a sterile one, a steady march by which gains are made begrudgingly and uninterestingly, if at all. There are no network effects. This does not describe a natural process.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, this is further reflected by the etymology of these terms. Both terms have their origins in greek: &amp;lsquo;geometry&amp;rsquo;, or γεομετρια (γε &amp;lsquo;earth&amp;rsquo;, μετρια &amp;lsquo;measure&amp;rsquo;) regarding the surveying of land and nature; &amp;lsquo;arithmetic&amp;rsquo; or αριθμητικη (art of counting).&lt;/p&gt;
+
+&lt;p&gt;The error of the arithmetic mindset is made even more apparent when we flip the progression in the other direction, however.&lt;/p&gt;
+
+&lt;p&gt;Geometric series: &lt;code&gt;1, 1/2, 1/4, 1/8, 1/16&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Arithmetic series: &lt;code&gt;1, 0, -1, -2, -3...&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;As far as describing physical phenomena, the former makes much more sense than the latter: negative quantities do not exist, or at least, are unsustainable debts which must be repaid. The geometric series, however, can infinitely collapse and converge upon an essential truth.&lt;/p&gt;
+&lt;h2&gt;Interactions&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s take this into two dimensions. A dimension is simply an orthogonal axis, an axis that varies independently of the first. Let&amp;rsquo;s consider the ratio 2 for some geometric series and arithmetic series.&lt;/p&gt;
+
+&lt;p&gt;Geometric: A = 2, 4, 8, 16, 32; B = 3, 6, 12, 24, 48&lt;/p&gt;
+
+&lt;p&gt;Arithmetic: A = 2, 4, 6, 8, 10; B = 3, 5, 7, 9, 11&lt;/p&gt;
+
+&lt;p&gt;We can visualize the effects that these two dimensions have on each other if we consider them as lengths of the legs of a right triangle. If you have some graph paper, feel free to plot it for yourself.&lt;/p&gt;
+
+&lt;p&gt;In the geometric series, the ratio progresses from 2:3 to 32:48 (which, if you notice, reduces to 2:3). The proportion, or shape remains the same. In the arithmetic series the ratio progresses from 2:3 to 10:11, or in decimal terms, from about 0.66 to 0.90909.&lt;/p&gt;
+
+&lt;p&gt;If we were to continue these series on, both do indeed continue growing unceasingly, but the ratios diverge. The geometric ratio always remains constant. However, with an arithmetic ratio, the ratio converges to unity.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Conclusion A: If all dimensions are geometric, the relationship between them does not change.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Conclusion B: If all dimensions are arithmetic, the relationship between them changes, and converges, but never approaches, unity.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The keen eye would see that there are more possibilities, though.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Conclusion C: If one dimension is geometric, and the other arithmetic, the relationship between them diverges, in favor of the geometric.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;From series analysis we know that this is true even if the ratio for the arithmetic is higher than the geometric. The arithmetic may have a short-run advance if its ratio is sufficiently high, but there is some point at which it dominates.&lt;/p&gt;
+
+&lt;p&gt;Where are we going with this? Early ‘western’ (modern &amp;lsquo;near east&amp;rsquo;) thinkers recognized the link between morality and beauty- and as such, were keen to the link that morality would have with proportion.&lt;/p&gt;
+&lt;h2&gt;Politics&lt;/h2&gt;
+&lt;p&gt;The co-option of the term &amp;lsquo;progressive&amp;rsquo; by some politicians and progressives is quite regrettable, as we can clearly see now there are many ways in which to &amp;lsquo;progress&amp;rsquo;. Save for the anti-natalists, verily, all people desire progression, at least in the form of begetting replacement offspring. The question is, by which algorithm?&lt;/p&gt;
+
+&lt;p&gt;Aristotle advocates for a geometric progress: &amp;ldquo;for if persons are unequal, they ought not have equal shares&amp;rdquo;; unequal shares for unequal merit. 10 times 3 is 30, a +20 increase. 100 times 3 is 300, a +200 increase.&lt;/p&gt;
+
+&lt;p&gt;The egalitarian, however, advocates for arithmetic progress: equal shares, regardless of merit. 10 plus 3 is 13, and 100 plus 3 is 103.&lt;/p&gt;
+
+&lt;p&gt;From this many practical ideas can be plainly illustrated (suppose, say, one modifies the sequence so one can influence their standing in the sequence- in a geometric progression, their efforts are multiplied and rewarded, whereas in an arithmetic progression, they are discarded and ignored). But the key really is a sense of proportion, and that there is good beyond the mere growth of a sequence. A geometric scheme allows for a sense of beauty and proportion that emerges not from the mere magnitude of numbers, but their relationship and harmony.&lt;/p&gt;
+
+&lt;p&gt;This may at blush sound like &amp;lsquo;slave morality&amp;rsquo; as Nietzsche might describe it (accepting a lower position out of a trick the upper classes play), but it clearly is nonsensical as this same sort of thinking benefits the &amp;lsquo;masters&amp;rsquo; as well.&lt;/p&gt;
+
+&lt;p&gt;The way out is not in a rat race of arithmetic progression, but in respect for divine proportion and the opportunities that multiplication offers.&lt;/p&gt;
+
+&lt;p&gt;Riffing on conclusion C, the arithmetic mindset is ultimately doomed if not alone.&lt;/p&gt;
+
+&lt;p&gt;The geometric mindset, being natural, cannot be extinguished- only ran foolishly against. &amp;ldquo;Whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them.&amp;rdquo; - Matthew 13:12&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;3 → 6 → 12 → 24 → 48&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;-1 → -2 → -4 → -16 → -32&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The arithmetic sympathizers do have one option, though, and that is to eliminate all traces of geometric progression. It is only in the utter rejection of all proportion and ratio that the arithmetic approach can stand any chance. It may at times &amp;lsquo;embrace&amp;rsquo; a geometric sense of beauty, but it will seek to add and &amp;lsquo;extend&amp;rsquo; (extension is clearly a different process than multiplication), and ultimately &amp;lsquo;extinguish&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;Arithmetic thinkers will often criticize the present distributions. They will rarely criticize the ratios, but instead focus on absolute discrepancies. The acknowledgement of ratio is itself a geometric idea. You may be well familiar with one such &amp;lsquo;golden ratio&amp;rsquo;, approximately 1.618, often by the symbol &lt;em&gt;φ&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/assets/images/phi.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;She’s beautiful, isn’t she?&lt;/p&gt;
+
+&lt;p&gt;The delight of this ratio is that squares of proportionately larger diameter can be arranged together to form a structure without gaps. It is not only geometric thinking that enables this, but also the correct proportion. The role of the geometric thinker cannot be merely to rebuke the arithmetic-minded, but to show them that a ratio which could accomplish just ends does exist. I do not argue that there is something about φ which is imbued in every circumstance- φ happens to work for nesting boxes, but will not work for other problems.&lt;/p&gt;
+
+&lt;p&gt;The only ratio which the arithmetic-minded can comprehend is one-to-one, and even that, they must at some point recognize as unstable at best and impossible at worst. The rigidity of their ratio disallows any natural flourishing in nearly all cases. Nothing natural has a ratio of one. Even the ameoba can reproduce multiple times.&lt;/p&gt;
+&lt;h2&gt;Manifestations&lt;/h2&gt;
+&lt;p&gt;Following along? Not sure how the hell this connects to the material world? Here&amp;rsquo;s some examples of geometry:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The traditional family across multiple generations&lt;/li&gt;
+&lt;li&gt;Reinvestment of labor and wealth&lt;/li&gt;
+&lt;li&gt;Spread of ideas by network effects&lt;/li&gt;
+&lt;li&gt;Learning from tradition&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Big Bang&amp;rdquo; theory (which is indistinguishable from Creationism)&lt;/li&gt;
+&lt;li&gt;Charity and free sowing of seed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And from arithmetic thinking:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Replacement populations&lt;/li&gt;
+&lt;li&gt;Universal Income&lt;/li&gt;
+&lt;li&gt;Extraction of surplus value; usury&lt;/li&gt;
+&lt;li&gt;Ignorance of history&lt;/li&gt;
+&lt;li&gt;Steady-state universe&lt;/li&gt;
+&lt;li&gt;Stinginess and hoarding&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;hellip; among many more examples. You have a brain. Think geometrically, and all will be clearer.&lt;/p&gt;
+
+&lt;p&gt;Can you think of other schemes than geometric and arithmetic? Sure! I invite you to think of them. I’d be interested to see your parallels.&lt;/p&gt;
 </content>
         </entry>
     
@@ -31,7 +135,7 @@
             <title>The Three S&#39;s</title>
             <link rel="alternate" href="https://blog.thadhughes.xyz/threess/" type="text/html" />
             <id>https://blog.thadhughes.xyz/threess/</id>
-            <updated>2021-02-05T01:51:17Z</updated>
+            <updated>2020-09-29T02:14:00Z</updated>
 
             <summary type="html">When I mentored FLL, I came up with three design principles that I could instill in my students. It seemed to take root. The three S&amp;rsquo;s:
 - Simple
@@ -57,16 +161,30 @@
         </entry>
     
         <entry>
+            <title>Designing for Competent Users</title>
+            <link rel="alternate" href="https://blog.thadhughes.xyz/competentusers/" type="text/html" />
+            <id>https://blog.thadhughes.xyz/competentusers/</id>
+            <updated>2020-09-29T02:09:00Z</updated>
+
+            <summary type="html">A lot of engineering designs revolve around not allowing the user to &amp;ldquo;do dumb things&amp;rdquo;. Honestly, this is a great thing to do. There are many cases, especially in protective equipment that is a matter of life and death, where the potential for harm is far, far too high.</summary>
+            <content type="html">&lt;p&gt;A lot of engineering designs revolve around not allowing the user to &amp;ldquo;do dumb things&amp;rdquo;. Honestly, this is a great thing to do. There are many cases, especially in protective equipment that is a matter of life and death, where the potential for harm is far, far too high.&lt;/p&gt;
+
+&lt;p&gt;However, legalism and holding human life as the highest good rather than something divine will always drag human life down, rather than lifting it up. We need danger. We need to be able to let our users have the chance to be competent.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
             <title>A Love Letter to Cardboard</title>
             <link rel="alternate" href="https://blog.thadhughes.xyz/ode_to_cardboard/" type="text/html" />
             <id>https://blog.thadhughes.xyz/ode_to_cardboard/</id>
-            <updated>2021-02-05T01:51:17Z</updated>
+            <updated>2020-09-08T02:41:00Z</updated>
 
-            <summary type="html">&lt;img src=&#34;/assets/images/cardboard.jpeg&#34; alt=&#34;A Love Letter to Cardboard&#34;&gt;</summary>
-            <content type="html">&lt;p&gt;&lt;img src=&#34;/assets/images/cardboard.jpeg&#34; alt=&#34;A Love Letter to Cardboard&#34;&gt;&lt;/p&gt;
+            <summary type="html">&lt;a href=&#34;https://www.youtube.com/watch?v=pVxldyIa0Bg&#34;&gt;Steel is the king of building materials. Plywood is the queen.&lt;/a&gt;</summary>
+            <content type="html">&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=pVxldyIa0Bg&#34;&gt;Steel is the king of building materials. Plywood is the queen.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=pVxldyIa0Bg&#34;&gt;Steel is the king of building materials. Plywood is the queen.&lt;/a&gt;
-But no court is properly full without a jester.
+&lt;p&gt;&lt;img src=&#34;/assets/images/cardboard.jpg&#34; alt=&#34;A Love Letter to Cardboard&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;But no court is properly full without a jester.
 The jester says things that should not be said. He predicts folly and demise to them, letting the repute of the king and queen go untarnished.&lt;/p&gt;
 
 &lt;p&gt;Cardboard comes in many flavors. Plain stock is effectively thick, brown paper. It cuts and folds easily, with little bias to grain direction.
@@ -79,156 +197,6 @@ However, when the board learns of the queen&amp;rsquo;s ways, he may find ever m
 &lt;p&gt;Part of his utility is, of course, his replacability. But a jester is replaced only by another jester. His role is unparalleled. Creating large sheetmetal parts is costly and time-consuming, and plastic is only slightly less so. Cardboard can be cut quickly on a laser- nearly an order of magnitude faster than plywood. It can be cut with knife and welded with hot glue. Shaped, reformed, and thrown in the dungeon without penalty, and pulled off the streets for free.&lt;/p&gt;
 
 &lt;p&gt;While if he were to seize the throne, our world would turn to pulp&amp;hellip; he serves at hand and foot, keeping our kingdom from ruin.&lt;/p&gt;
-</content>
-        </entry>
-    
-        <entry>
-            <title>Geometric vs. Arithmetic Thinking</title>
-            <link rel="alternate" href="https://blog.thadhughes.xyz/geometric/" type="text/html" />
-            <id>https://blog.thadhughes.xyz/geometric/</id>
-            <updated>2021-02-05T01:51:17Z</updated>
-
-            <summary type="html">The development of early western philosophy is undoubtedly intertwined with mathematics, and in particular, geometry.</summary>
-            <content type="html">&lt;p&gt;The development of early western philosophy is undoubtedly intertwined with mathematics, and in particular, geometry.&lt;/p&gt;
-
-&lt;p&gt;You may recall from your math classes, or from calculus two, geometric series and arithmetic series.&lt;/p&gt;
-
-&lt;p&gt;As a reminder:&lt;/p&gt;
-
-&lt;p&gt;a geometric series is one where the next number is some constant multiple (a ratio, or proportion) of the previous, e.g. 1, 3, 9, 27, 81, 243&lt;/p&gt;
-
-&lt;p&gt;A arithmetic series is one where the next number is some constant additive of the previous, e.g. 2, 4, 6, 8, 10, 12, 14&lt;/p&gt;
-
-&lt;p&gt;While the typical mathematics course will help remind you of how these work by creating stories such as &amp;ldquo;One Grain of Rice&amp;rdquo;, the relation is actually inverse- the story emerges from the series, not the series from the story. The geometric series has many manifestations, all of which could be considered natural, from the Latin &amp;ldquo;nasci&amp;rdquo;, meaning to give birth. One begets two, the two beget four, the four beget eight; a flowering out by which the entire space may be filled even as the originals die off.&lt;/p&gt;
-
-&lt;p&gt;The arithmetic sequence, on the other hand, is a sterile one, a steady march by which gains are made begrudgingly and uninterestingly, if at all. There are no network effects. This does not describe a natural process.&lt;/p&gt;
-
-&lt;p&gt;Interestingly, this is further reflected by the etymology of these terms. Both terms have their origins in greek: &amp;lsquo;geometry&amp;rsquo;, or γεομετρια (γε &amp;lsquo;earth&amp;rsquo;, μετρια &amp;lsquo;measure&amp;rsquo;) regarding the surveying of land and nature; &amp;lsquo;arithmetic&amp;rsquo; or αριθμητικη (art of counting).&lt;/p&gt;
-
-&lt;p&gt;The error of the arithmetic mindset is made even more apparent when we flip the progression in the other direction, however.&lt;/p&gt;
-
-&lt;p&gt;Geometric series: 1, &amp;frac12;, &amp;frac14;, 1/8, 1/16&lt;/p&gt;
-
-&lt;p&gt;Arithmetic series: 1, 0, -1, -2, -3&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;As far as describing physical phenomena, the former makes much more sense than the latter: negative quantities do not exist, or at least, are unsustainable debts which must be repaid. The geometric series, however, can infinitely collapse and converge upon an essential truth.&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s take this into two dimensions. A dimension is simply an orthogonal axis, an axis that varies independently of the first. Let&amp;rsquo;s consider the ratio 2 for some geometric series and arithmetic series.&lt;/p&gt;
-
-&lt;p&gt;Geometric: A = 2, 4, 8, 16, 32; B = 3, 6, 12, 24, 48&lt;/p&gt;
-
-&lt;p&gt;Arithmetic: A = 2, 4, 6, 8, 10; B = 3, 5, 7, 9, 11&lt;/p&gt;
-
-&lt;p&gt;We can visualize the effects that these two dimensions have on each other if we consider them as lengths of the legs of a right triangle. If you have some graph paper, feel free to plot it for yourself.&lt;/p&gt;
-
-&lt;p&gt;In the geometric series, the ratio progresses from 2:3 to 32:48 (which, if you notice, reduces to 2:3). The proportion, or shape remains the same. In the arithmetic series the ratio progresses from 2:3 to 10:11, or in decimal terms, from about 0.66 to 0.90909.&lt;/p&gt;
-
-&lt;p&gt;If we were to continue these series on, both do indeed continue growing unceasingly, but the ratios diverge. The geometric ratio always remains constant. However, with an arithmetic ratio, the ratio converges to unity.&lt;/p&gt;
-
-&lt;p&gt;Conclusion A: If all dimensions are geometric, the relationship between them does not change.&lt;/p&gt;
-
-&lt;p&gt;Conclusion B: If all dimensions are arithmetic, the relationship between them changes, and converges, but never approaches, unity.&lt;/p&gt;
-
-&lt;p&gt;The keen eye would see that there are more possibilities, though.&lt;/p&gt;
-
-&lt;p&gt;Conclusion C: If one dimension is geometric, and the other arithmetic, the relationship between them diverges, in favor of the geometric.&lt;/p&gt;
-
-&lt;p&gt;From series analysis we know that this is true even if the ratio for the arithmetic is higher than the geometric. The arithmetic may have a short-run advance if its ratio is sufficiently high, but there is some point at which it dominates.&lt;/p&gt;
-
-&lt;p&gt;Where are we going with this? Early ‘western’ (in the modern ‘near east’) thinkers recognized the link between morality and beauty- and as such, were keen to the link that morality would have with proportion. &amp;ldquo;Beauty will save the world&amp;rdquo; quoth Dostoevsky, recognizing the immense draw which justice&amp;rsquo;s fruit of beauty possesses.&lt;/p&gt;
-
-&lt;p&gt;The co-option of the term &amp;lsquo;progressive&amp;rsquo; by some politicians and progressives is quite regrettable, as we can clearly see now there are many ways in which to &amp;lsquo;progress&amp;rsquo;. Save for the anti-natalists, verily, all people desire progression, at least in the form of begetting replacement offspring. The question is, by which algorithm?&lt;/p&gt;
-
-&lt;p&gt;Aristotle advocates for a geometric progress: &amp;ldquo;for if persons are unequal, they ought not have equal shares&amp;rdquo;; unequal shares for unequal merit. 10 times 3 is 30, a +20 increase. 100 times 3 is 300, a +200 increase.&lt;/p&gt;
-
-&lt;p&gt;The egalitarian, however, advocates for arithmetic progress: equal shares, regardless of merit. 10 plus 3 is 13, and 100 plus 3 is 103.&lt;/p&gt;
-
-&lt;p&gt;From this many practical ideas can be plainly illustrated (suppose, say, one modifies the sequence so one can influence their standing in the sequence- in a geometric progression, their efforts are multiplied and rewarded, whereas in an arithmetic progression, they are discarded and ignored). But the key really is a sense of proportion, and that there is good beyond the mere growth of a sequence. A geometric scheme allows for a sense of beauty and proportion that emerges not from the mere magnitude of numbers, but their relationship and harmony.&lt;/p&gt;
-
-&lt;p&gt;This may at blush sound like &amp;lsquo;slave morality&amp;rsquo; as Nietzsche might describe it (accepting a lower position out of a trick the upper classes play), but it clearly is nonsensical as this same sort of thinking benefits the &amp;lsquo;masters&amp;rsquo; as well.&lt;/p&gt;
-
-&lt;p&gt;The way out is not in a rat race of arithmetic progression, but in respect for divine proportion and the opportunities that multiplication offers.&lt;/p&gt;
-
-&lt;p&gt;Riffing on conclusion C, the arithmetic mindset is ultimately doomed if not alone.&lt;/p&gt;
-
-&lt;p&gt;The geometric mindset, being natural, cannot be extinguished- only ran foolishly against. &amp;ldquo;Whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them.&amp;rdquo; - Matthew 13:12&lt;/p&gt;
-
-&lt;p&gt;3→6→12→24→48&lt;/p&gt;
-
-&lt;p&gt;-1→-2→-4→-16→-32&lt;/p&gt;
-
-&lt;p&gt;The arithmetic sympathizers do have one option, though, and that is to eliminate all traces of geometric progression. It is only in the utter rejection of all proportion and ratio that the arithmetic approach can stand any chance. It may at times &amp;lsquo;embrace&amp;rsquo; a geometric sense of beauty, but it will seek to add and &amp;lsquo;extend&amp;rsquo; (extension is clearly a different process than multiplication), and ultimately &amp;lsquo;extinguish&amp;rsquo;.&lt;/p&gt;
-
-&lt;p&gt;Arithmetic thinkers will often criticize the present distributions. They will rarely criticize the ratios, but instead focus on absolute discrepancies. The acknowledgement of ratio is itself a geometric idea. You may be well familiar with one such &amp;lsquo;golden ratio&amp;rsquo;, approximately 1.618, often by the symbol φ.&lt;/p&gt;
-
-&lt;p&gt;She’s beautiful, isn’t she?&lt;/p&gt;
-
-&lt;p&gt;The delight of this ratio is that squares of proportionately larger diameter can be arranged together to form a structure without gaps. It is not only geometric thinking that enables this, but also the correct proportion. The role of the geometric thinker cannot be merely to rebuke the arithmetic-minded, but to show them that a ratio which could accomplish just ends does exist. I do not argue that there is something about φ which is imbued in every circumstance- φ happens to work for nesting boxes, but will not work for other problems.&lt;/p&gt;
-
-&lt;p&gt;The only ratio which the arithmetic-minded can comprehend is one-to-one, and even that, they must at some point recognize as unstable at best and impossible at worst. The rigidity of their ratio disallows any natural flourishing in nearly all cases. Nothing natural has a ratio of one. Even the ameoba can reproduce multiple times.&lt;/p&gt;
-
-&lt;p&gt;Following along? Not sure how the hell this connects to the material world? Well, here’s some geometric manifestations:&lt;/p&gt;
-
-&lt;p&gt;The traditional family across multiple generations&lt;/p&gt;
-
-&lt;p&gt;Reinvestment of labor and wealth&lt;/p&gt;
-
-&lt;p&gt;Spread of ideas by network effects&lt;/p&gt;
-
-&lt;p&gt;Learning from tradition&lt;/p&gt;
-
-&lt;p&gt;Creationism, or “Big Bang” theory (pohtato, puhtato)&lt;/p&gt;
-
-&lt;p&gt;Charity and free sowing of seed&lt;/p&gt;
-
-&lt;p&gt;And from arithmetic thinking:&lt;/p&gt;
-
-&lt;p&gt;Replacement populations&lt;/p&gt;
-
-&lt;p&gt;Universal Income&lt;/p&gt;
-
-&lt;p&gt;Extraction of surplus value; usury&lt;/p&gt;
-
-&lt;p&gt;Ignorance of history&lt;/p&gt;
-
-&lt;p&gt;Steady-state universe&lt;/p&gt;
-
-&lt;p&gt;Stinginess and hoarding&lt;/p&gt;
-
-&lt;p&gt;… among many more examples. You have a brain. Think geometrically, and all will be clearer.&lt;/p&gt;
-
-&lt;p&gt;Can you think of other schemes than geometric and arithmetic? Sure! I invite you to think of them. I’d be interested to see your parallels.&lt;/p&gt;
-</content>
-        </entry>
-    
-        <entry>
-            <title>What atheists are learning from the 20th century</title>
-            <link rel="alternate" href="https://blog.thadhughes.xyz/learning_from_the_20th_century/" type="text/html" />
-            <id>https://blog.thadhughes.xyz/learning_from_the_20th_century/</id>
-            <updated>2021-02-05T01:51:17Z</updated>
-
-            <summary type="html">I think that there&amp;rsquo;s plenty of folks like &lt;a href=&#34;https://en.wikipedia.org/wiki/Rod_Dreher&#34;&gt;Rod Dreher&lt;/a&gt; (Author of The Benedict Option, and more lately, Live Not By Lies) who understand the new way things are going on the moral-religious landscape.. but let&amp;rsquo;s crawl into it from a different angle.</summary>
-            <content type="html">&lt;p&gt;I think that there&amp;rsquo;s plenty of folks like &lt;a href=&#34;https://en.wikipedia.org/wiki/Rod_Dreher&#34;&gt;Rod Dreher&lt;/a&gt; (Author of The Benedict Option, and more lately, Live Not By Lies) who understand the new way things are going on the moral-religious landscape.. but let&amp;rsquo;s crawl into it from a different angle.&lt;/p&gt;
-
-&lt;p&gt;The 20th century was bloody. We did a damn good job of that. And while many Christians have been right to identify the militant atheism at the core of Communism and Nazism as a central driving force, we have been slower to realize this.&lt;/p&gt;
-
-&lt;p&gt;Gulag-ing all the Christians doesn&amp;rsquo;t work. You&amp;rsquo;re playing right into their hands. Their whole story is based around being cut off from humanity, enduring ultimate sufferring, all the while being mocked and spit on, even being doubted by your own inner circle. Anyone who really believes that can&amp;rsquo;t be controlled. They&amp;rsquo;re immune. They&amp;rsquo;ll go underground, they&amp;rsquo;ll tell on you, go to any lengths. It&amp;rsquo;s the ultimate resistance story. Their testimony shall be revered because of everything you have done.&lt;/p&gt;
-
-&lt;p&gt;That strategy won&amp;rsquo;t work and we saw it play out in full force over the past century. So how do you really beat that narrative? Well for starters, you don&amp;rsquo;t outright deny it.&lt;/p&gt;
-
-&lt;p&gt;But you can deny its significance. But, you can&amp;rsquo;t do this outright. You can&amp;rsquo;t full frontal say that religion isn&amp;rsquo;t important. It mustn&amp;rsquo;t be knocked down, other things must rise above. Civil Unions don&amp;rsquo;t affect clerical celibacy. Inclusion isn&amp;rsquo;t in competition with the Incarnation.&lt;/p&gt;
-
-&lt;p&gt;The communists made the grave mistake of declining Christianity a seat at the table. The bastard child will hunger strike until it&amp;rsquo;s given. So give it. But he has to sit up straight and not speak out of turn.&lt;/p&gt;
-
-&lt;p&gt;This subconsciously ties into his understanding of worship as sacrifice, which is a deeply held notion that even we have. Do this slowly enough and they will not percieve it. Eventually they will come to value their participation at our table over their altars, at which point the proposition becomes so simple it doesn&amp;rsquo;t even need to be made. They&amp;rsquo;ll make it for themselves, a free will offerring to us.&lt;/p&gt;
-
-&lt;p&gt;Keep a seat open. Keep many seats open. Be willing to &amp;lsquo;discourse&amp;rsquo; and &amp;lsquo;dialogue&amp;rsquo;. But at your table. You invite them. You&amp;rsquo;re the kind and compassionate host. The king opening the gates to the unwashed masses. You care. You want them to be heard. Do not get up from your chair. Do not talk to them in the wild. If they have a problem, they come to you. And you&amp;rsquo;ve got them.&lt;/p&gt;
-
-&lt;p&gt;The Christian is obliged to turn the other cheek. So, do not slap them in the first place. Ignore them. Walk past them. The ultimate sufferring for such detestable creatures isn&amp;rsquo;t torture, or even to be placed in solitary, but to wander in the desert without pain to endure.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Your beloved &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Screwtape_Letters&#34;&gt;Uncle Screwtape&lt;/a&gt;&amp;rsquo;s standin&lt;/li&gt;
-&lt;/ul&gt;
 </content>
         </entry>
     

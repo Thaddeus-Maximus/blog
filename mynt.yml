@@ -41,3 +41,5 @@ tag_layout: tag.html
 tags_url: /archives/
 
 posts_url: /<slug>/
+
+date_format: "%b %d"
