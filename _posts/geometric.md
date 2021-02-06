@@ -89,6 +89,8 @@ The geometric mindset, being natural, cannot be extinguished- only ran foolishly
 
 The arithmetic sympathizers do have one option, though, and that is to eliminate all traces of geometric progression. It is only in the utter rejection of all proportion and ratio that the arithmetic approach can stand any chance. It may at times 'embrace' a geometric sense of beauty, but it will seek to add and 'extend' (extension is clearly a different process than multiplication), and ultimately 'extinguish'.
 
+## Golden Ratio
+
 Arithmetic thinkers will often criticize the present distributions. They will rarely criticize the ratios, but instead focus on absolute discrepancies. The acknowledgement of ratio is itself a geometric idea. You may be well familiar with one such 'golden ratio', approximately 1.618, often by the symbol *φ*.
 
 ![](/assets/images/phi.jpg)
@@ -98,6 +100,12 @@ She’s beautiful, isn’t she?
 The delight of this ratio is that squares of proportionately larger diameter can be arranged together to form a structure without gaps. It is not only geometric thinking that enables this, but also the correct proportion. The role of the geometric thinker cannot be merely to rebuke the arithmetic-minded, but to show them that a ratio which could accomplish just ends does exist. I do not argue that there is something about φ which is imbued in every circumstance- *φ* happens to work for packing boxes in this fashion (among other recursive patterns), but will not work for all problems.
 
 The only ratio which the arithmetic-minded can comprehend is one-to-one, and even that, they must at some point recognize as unstable at best and impossible at worst. The rigidity of their ratio disallows any natural flourishing in nearly all cases. Nothing natural has a ratio of one. Even the ameoba can reproduce multiple times.
+
+OK, fine. There is something neat about *φ*, or at least the concept it represents. It's the magical ratio such that:
+
+`φ = a/b = (a+b)/a`
+
+It's a ratio that allows for spiraling down (or up). It represents the idea that the same proportion exists amongst the small things as amongst the large things. That is to say, that you expect to see similar patterns on a macro- as a micro- scale.
 
 ## Room for Imagination
 

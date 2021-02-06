@@ -5,7 +5,7 @@
     <link rel="alternate" href="https://blog.thadhughes.xyz/" />
     <link rel="self" href="https://blog.thadhughes.xyz/feed.xml" type="application/atom+xml" />
     <id>https://blog.thadhughes.xyz/</id>
-    <updated>2021-02-06T03:24:19Z</updated>
+    <updated>2021-02-06T03:31:18Z</updated>
 
     <author>
         <name>Thad Hughes</name>
@@ -15,69 +15,10 @@
 
     
         <entry>
-            <title>The Web is a Real Place.</title>
-            <link rel="alternate" href="https://blog.thadhughes.xyz/web_as_realworld/" type="text/html" />
-            <id>https://blog.thadhughes.xyz/web_as_realworld/</id>
-            <updated>2021-02-06T03:23:51Z</updated>
-
-            <summary type="html">For years now people have been trying to &lt;a href=&#34;https://blog.substack.com/p/welcome-facebook-and-twitter-seriously&#34;&gt;fix the internet&lt;/a&gt;. Not a lot of people are talking about modeling and understanding the internet in the first place, though. A lot of folk like myself have a sort of &amp;lsquo;nostalgia&amp;rsquo; for the &amp;lsquo;old internet&amp;rsquo;. That&amp;rsquo;s a nebulous statement, but it&amp;rsquo;s right. To understand, an analogue is needed.</summary>
-            <content type="html">&lt;p&gt;For years now people have been trying to &lt;a href=&#34;https://blog.substack.com/p/welcome-facebook-and-twitter-seriously&#34;&gt;fix the internet&lt;/a&gt;. Not a lot of people are talking about modeling and understanding the internet in the first place, though. A lot of folk like myself have a sort of &amp;lsquo;nostalgia&amp;rsquo; for the &amp;lsquo;old internet&amp;rsquo;. That&amp;rsquo;s a nebulous statement, but it&amp;rsquo;s right. To understand, an analogue is needed.&lt;/p&gt;
-
-&lt;p&gt;The internet is a &lt;em&gt;realm&lt;/em&gt; which has &lt;em&gt;places&lt;/em&gt;. Much like reality consists of physical places. They have rules and behaviors.&lt;/p&gt;
-
-&lt;p&gt;You, saavy internet user, are walking through this realm right now. As of this writing, this domain points to a set of files hosted on github (via their github pages service). I&amp;rsquo;ve got my own address (a domain, thadhughes.xyz). I also have a P.O. box (my email, &lt;a href=&#34;mailto:hughes.thad@gmail.com&#34;&gt;hughes.thad@gmail.com&lt;/a&gt;). I don&amp;rsquo;t have a mailbox yet; I haven&amp;rsquo;t set up a mail server at the domain.&lt;/p&gt;
-
-&lt;p&gt;People online are generally in very strange living situations. Most people don&amp;rsquo;t even have an address. They have P.O. boxes (emails) and are in homeless shelters (such as Facebook, Twitter, YouTube). The &amp;ldquo;successful&amp;rdquo; folks, with tons of subscribers, are just getting out of the shelters- they are starting to make money but still living on the generosity of platforms.&lt;/p&gt;
-
-&lt;p&gt;They don&amp;rsquo;t own their platform. The notion that these e-celebs &amp;ldquo;have&amp;rdquo; a platform is absurd. They&amp;rsquo;re on one, but they don&amp;rsquo;t have one.&lt;/p&gt;
-
-&lt;p&gt;The random programmer with their own website is infinitely more soveirgn than a famous YouTuber.&lt;/p&gt;
-
-&lt;p&gt;So what was it about the &amp;lsquo;old internet&amp;rsquo; that we&amp;rsquo;re nostalgic about? What marked it?&lt;/p&gt;
-&lt;h2&gt;Interactivity&lt;/h2&gt;
-&lt;p&gt;One sign was less interactivity, and more personality. &amp;ldquo;Bob posted on your wall&amp;rdquo; means &amp;ldquo;Bob put a political candidate&amp;rsquo;s sign in front of your bed&amp;rdquo;. &amp;ldquo;Bob sent you an email&amp;rdquo; means &amp;ldquo;Bob sent you a letter&amp;rdquo;, or &amp;ldquo;Bob came and talked to you&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;We often think that a more &amp;lsquo;interactive&amp;rsquo; world is better. And it is- it is better to be active in the world. But the &amp;lsquo;interaction&amp;rsquo; that we typically have is &lt;a href=&#34;https://www.goodreads.com/quotes/8754425-a-surrogate-activity-is-an-activity-that-is-directed-toward&#34;&gt;surrogate&lt;/a&gt;. We&amp;rsquo;re employing a system to be our messenger instead of being personal. Like corporate gift baskets.&lt;/p&gt;
-
-&lt;p&gt;We need to return to a less interactive internet. Shut down the comment boxes. Open your email composer, or IM, or SMS, or just pick up the phone already.&lt;/p&gt;
-
-&lt;p&gt;Sending a message or an email may be awkward. But don&amp;rsquo;t you love those little suprises that come in your email out of nowhere? They&amp;rsquo;re so much better than corporate gift baskets.&lt;/p&gt;
-&lt;h2&gt;Soveirgnty&lt;/h2&gt;
-&lt;p&gt;There are things which a man should be able to control and be soveirgn in. If he cannot be soveirgn in his speech, he has forfeited his soul. I mean that. If he is subject to terms of service in the words he puts forth, they are inherently limited and he lacks the capacity to speak freely.&lt;/p&gt;
-
-&lt;p&gt;Not only in content, but in form, too. All facebook pages are the same. All twitter pages are the same. Remember MySpace? Remember the old YouTube layouts? There was so much diversity in how you could lay out your page and rearrange it. There was a degree of soveirgnty in that.&lt;/p&gt;
-
-&lt;p&gt;Was it ugly? Absolutely. And that was fantastic. There was room to be gaudy, to be expressive. It made those that managed the medium and created beauty that much better.&lt;/p&gt;
-
-&lt;p&gt;Because you&amp;rsquo;re not the customer, you&amp;rsquo;re not the soveirgn. You will be subject to increasing conformity and blandness and a narrowing of forms until all is squeezed out.&lt;/p&gt;
-&lt;h2&gt;Protocols, not platforms&lt;/h2&gt;
-&lt;p&gt;Remember IRC? Ok, maybe you don&amp;rsquo;t. Remember email? Yeah, of course you do.&lt;/p&gt;
-
-&lt;p&gt;Email isn&amp;rsquo;t a platform. Google can&amp;rsquo;t just shut down email. They could shut down gmail, but other email providers would still exist. Even with gmail, you can still connect Outlook to it.&lt;/p&gt;
-
-&lt;p&gt;Want to use Instagram? You have to use Instagram. And if you want to post, you have to do it from a phone (or spoof your web browser to act like a phone). You&amp;rsquo;re not going outside. You&amp;rsquo;re locked in. There&amp;rsquo;s no migration.&lt;/p&gt;
-
-&lt;p&gt;When you&amp;rsquo;re going out in public you might frequent different places. But you don&amp;rsquo;t put on a different outfit to enter every single different establishment. You have your own sense of style and utility. Not everyone pays with card, some pay with cash. If you don&amp;rsquo;t like how one place is doing business you up and leave.&lt;/p&gt;
-
-&lt;p&gt;In other areas, admittedly, we&amp;rsquo;ve gotten better. HTML5 blows the socks off Flash and Java (like, Java applets) in this category. (I&amp;rsquo;ll acknowledge wins when I see them!)&lt;/p&gt;
-
-&lt;p&gt;RSS is a weird middle ground. Which brings us to the next point.&lt;/p&gt;
-&lt;h2&gt;Memberships Maybe, F&amp;amp;@% Feeds&lt;/h2&gt;
-&lt;p&gt;(Unpaid) subscriptions and feeds are a stain on our lives. This is literally the modern day equivalent of junk mail and I don&amp;rsquo;t think you can convince me otherwise.&lt;/p&gt;
-
-&lt;p&gt;Going back to the first point about interactivity- do you keep a list of your friends, and message them every day? No, you message as things come up or you think of ideas. You riff. Things have highs and lows.&lt;/p&gt;
-
-&lt;p&gt;You should seek out particular ideas. Not be fed some constant stream. The idea of having someone constantly streaming ideas at you originated with whoever came up with junk mail, and never before.&lt;/p&gt;
-
-&lt;p&gt;Paid memberships are different. It goes back to the basic principle that you pay for things that have value. The payment forces you to assess the quality of that which you are given, and encourages you to cut it out when it&amp;rsquo;s no longer useful. In this way, paying for things is beneficial to you.&lt;/p&gt;
-</content>
-        </entry>
-    
-        <entry>
             <title>Arithmetic Thinking is Smoothbrained.</title>
             <link rel="alternate" href="https://blog.thadhughes.xyz/geometric/" type="text/html" />
             <id>https://blog.thadhughes.xyz/geometric/</id>
-            <updated>2021-02-06T03:22:54Z</updated>
+            <updated>2021-02-06T03:31:13Z</updated>
 
             <summary type="html">The development of early western philosophy is undoubtedly intertwined with mathematics, and in particular, geometry.</summary>
             <content type="html">&lt;p&gt;The development of early western philosophy is undoubtedly intertwined with mathematics, and in particular, geometry.&lt;/p&gt;
@@ -151,7 +92,7 @@
 &lt;p&gt;&lt;code&gt;-1 → -2 → -4 → -16 → -32&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;The arithmetic sympathizers do have one option, though, and that is to eliminate all traces of geometric progression. It is only in the utter rejection of all proportion and ratio that the arithmetic approach can stand any chance. It may at times &amp;lsquo;embrace&amp;rsquo; a geometric sense of beauty, but it will seek to add and &amp;lsquo;extend&amp;rsquo; (extension is clearly a different process than multiplication), and ultimately &amp;lsquo;extinguish&amp;rsquo;.&lt;/p&gt;
-
+&lt;h2&gt;Golden Ratio&lt;/h2&gt;
 &lt;p&gt;Arithmetic thinkers will often criticize the present distributions. They will rarely criticize the ratios, but instead focus on absolute discrepancies. The acknowledgement of ratio is itself a geometric idea. You may be well familiar with one such &amp;lsquo;golden ratio&amp;rsquo;, approximately 1.618, often by the symbol &lt;em&gt;φ&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/assets/images/phi.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -161,6 +102,12 @@
 &lt;p&gt;The delight of this ratio is that squares of proportionately larger diameter can be arranged together to form a structure without gaps. It is not only geometric thinking that enables this, but also the correct proportion. The role of the geometric thinker cannot be merely to rebuke the arithmetic-minded, but to show them that a ratio which could accomplish just ends does exist. I do not argue that there is something about φ which is imbued in every circumstance- &lt;em&gt;φ&lt;/em&gt; happens to work for packing boxes in this fashion (among other recursive patterns), but will not work for all problems.&lt;/p&gt;
 
 &lt;p&gt;The only ratio which the arithmetic-minded can comprehend is one-to-one, and even that, they must at some point recognize as unstable at best and impossible at worst. The rigidity of their ratio disallows any natural flourishing in nearly all cases. Nothing natural has a ratio of one. Even the ameoba can reproduce multiple times.&lt;/p&gt;
+
+&lt;p&gt;OK, fine. There is something neat about &lt;em&gt;φ&lt;/em&gt;, or at least the concept it represents. It&amp;rsquo;s the magical ratio such that:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;φ = a/b = (a+b)/a&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a ratio that allows for spiraling down (or up). It represents the idea that the same proportion exists amongst the small things as amongst the large things. That is to say, that you expect to see similar patterns on a macro- as a micro- scale.&lt;/p&gt;
 &lt;h2&gt;Room for Imagination&lt;/h2&gt;
 &lt;p&gt;You probably have heard of the &lt;em&gt;Cult of Pythagoras&lt;/em&gt;. These swell fellows were of the belief that all numbers could be represented as integers, or fractions thereof. We today would call these &lt;em&gt;rational&lt;/em&gt; numbers. It&amp;rsquo;s plain to see how would would imagine they could exist. Heresy, to these fellows, came in when geometry was introduced. We&amp;rsquo;re familiar with the pythagorean theorem,&lt;/p&gt;
 
@@ -203,6 +150,65 @@
 &lt;p&gt;&amp;hellip; among many more examples. You have a brain. Think geometrically, and all will be clearer.&lt;/p&gt;
 
 &lt;p&gt;Can you think of other schemes than geometric and arithmetic? Sure! I invite you to think of them. I’d be interested to see your parallels.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>The Web is a Real Place.</title>
+            <link rel="alternate" href="https://blog.thadhughes.xyz/web_as_realworld/" type="text/html" />
+            <id>https://blog.thadhughes.xyz/web_as_realworld/</id>
+            <updated>2021-02-06T03:23:51Z</updated>
+
+            <summary type="html">For years now people have been trying to &lt;a href=&#34;https://blog.substack.com/p/welcome-facebook-and-twitter-seriously&#34;&gt;fix the internet&lt;/a&gt;. Not a lot of people are talking about modeling and understanding the internet in the first place, though. A lot of folk like myself have a sort of &amp;lsquo;nostalgia&amp;rsquo; for the &amp;lsquo;old internet&amp;rsquo;. That&amp;rsquo;s a nebulous statement, but it&amp;rsquo;s right. To understand, an analogue is needed.</summary>
+            <content type="html">&lt;p&gt;For years now people have been trying to &lt;a href=&#34;https://blog.substack.com/p/welcome-facebook-and-twitter-seriously&#34;&gt;fix the internet&lt;/a&gt;. Not a lot of people are talking about modeling and understanding the internet in the first place, though. A lot of folk like myself have a sort of &amp;lsquo;nostalgia&amp;rsquo; for the &amp;lsquo;old internet&amp;rsquo;. That&amp;rsquo;s a nebulous statement, but it&amp;rsquo;s right. To understand, an analogue is needed.&lt;/p&gt;
+
+&lt;p&gt;The internet is a &lt;em&gt;realm&lt;/em&gt; which has &lt;em&gt;places&lt;/em&gt;. Much like reality consists of physical places. They have rules and behaviors.&lt;/p&gt;
+
+&lt;p&gt;You, saavy internet user, are walking through this realm right now. As of this writing, this domain points to a set of files hosted on github (via their github pages service). I&amp;rsquo;ve got my own address (a domain, thadhughes.xyz). I also have a P.O. box (my email, &lt;a href=&#34;mailto:hughes.thad@gmail.com&#34;&gt;hughes.thad@gmail.com&lt;/a&gt;). I don&amp;rsquo;t have a mailbox yet; I haven&amp;rsquo;t set up a mail server at the domain.&lt;/p&gt;
+
+&lt;p&gt;People online are generally in very strange living situations. Most people don&amp;rsquo;t even have an address. They have P.O. boxes (emails) and are in homeless shelters (such as Facebook, Twitter, YouTube). The &amp;ldquo;successful&amp;rdquo; folks, with tons of subscribers, are just getting out of the shelters- they are starting to make money but still living on the generosity of platforms.&lt;/p&gt;
+
+&lt;p&gt;They don&amp;rsquo;t own their platform. The notion that these e-celebs &amp;ldquo;have&amp;rdquo; a platform is absurd. They&amp;rsquo;re on one, but they don&amp;rsquo;t have one.&lt;/p&gt;
+
+&lt;p&gt;The random programmer with their own website is infinitely more soveirgn than a famous YouTuber.&lt;/p&gt;
+
+&lt;p&gt;So what was it about the &amp;lsquo;old internet&amp;rsquo; that we&amp;rsquo;re nostalgic about? What marked it?&lt;/p&gt;
+&lt;h2&gt;Interactivity&lt;/h2&gt;
+&lt;p&gt;One sign was less interactivity, and more personality. &amp;ldquo;Bob posted on your wall&amp;rdquo; means &amp;ldquo;Bob put a political candidate&amp;rsquo;s sign in front of your bed&amp;rdquo;. &amp;ldquo;Bob sent you an email&amp;rdquo; means &amp;ldquo;Bob sent you a letter&amp;rdquo;, or &amp;ldquo;Bob came and talked to you&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;We often think that a more &amp;lsquo;interactive&amp;rsquo; world is better. And it is- it is better to be active in the world. But the &amp;lsquo;interaction&amp;rsquo; that we typically have is &lt;a href=&#34;https://www.goodreads.com/quotes/8754425-a-surrogate-activity-is-an-activity-that-is-directed-toward&#34;&gt;surrogate&lt;/a&gt;. We&amp;rsquo;re employing a system to be our messenger instead of being personal. Like corporate gift baskets.&lt;/p&gt;
+
+&lt;p&gt;We need to return to a less interactive internet. Shut down the comment boxes. Open your email composer, or IM, or SMS, or just pick up the phone already.&lt;/p&gt;
+
+&lt;p&gt;Sending a message or an email may be awkward. But don&amp;rsquo;t you love those little suprises that come in your email out of nowhere? They&amp;rsquo;re so much better than corporate gift baskets.&lt;/p&gt;
+&lt;h2&gt;Soveirgnty&lt;/h2&gt;
+&lt;p&gt;There are things which a man should be able to control and be soveirgn in. If he cannot be soveirgn in his speech, he has forfeited his soul. I mean that. If he is subject to terms of service in the words he puts forth, they are inherently limited and he lacks the capacity to speak freely.&lt;/p&gt;
+
+&lt;p&gt;Not only in content, but in form, too. All facebook pages are the same. All twitter pages are the same. Remember MySpace? Remember the old YouTube layouts? There was so much diversity in how you could lay out your page and rearrange it. There was a degree of soveirgnty in that.&lt;/p&gt;
+
+&lt;p&gt;Was it ugly? Absolutely. And that was fantastic. There was room to be gaudy, to be expressive. It made those that managed the medium and created beauty that much better.&lt;/p&gt;
+
+&lt;p&gt;Because you&amp;rsquo;re not the customer, you&amp;rsquo;re not the soveirgn. You will be subject to increasing conformity and blandness and a narrowing of forms until all is squeezed out.&lt;/p&gt;
+&lt;h2&gt;Protocols, not platforms&lt;/h2&gt;
+&lt;p&gt;Remember IRC? Ok, maybe you don&amp;rsquo;t. Remember email? Yeah, of course you do.&lt;/p&gt;
+
+&lt;p&gt;Email isn&amp;rsquo;t a platform. Google can&amp;rsquo;t just shut down email. They could shut down gmail, but other email providers would still exist. Even with gmail, you can still connect Outlook to it.&lt;/p&gt;
+
+&lt;p&gt;Want to use Instagram? You have to use Instagram. And if you want to post, you have to do it from a phone (or spoof your web browser to act like a phone). You&amp;rsquo;re not going outside. You&amp;rsquo;re locked in. There&amp;rsquo;s no migration.&lt;/p&gt;
+
+&lt;p&gt;When you&amp;rsquo;re going out in public you might frequent different places. But you don&amp;rsquo;t put on a different outfit to enter every single different establishment. You have your own sense of style and utility. Not everyone pays with card, some pay with cash. If you don&amp;rsquo;t like how one place is doing business you up and leave.&lt;/p&gt;
+
+&lt;p&gt;In other areas, admittedly, we&amp;rsquo;ve gotten better. HTML5 blows the socks off Flash and Java (like, Java applets) in this category. (I&amp;rsquo;ll acknowledge wins when I see them!)&lt;/p&gt;
+
+&lt;p&gt;RSS is a weird middle ground. Which brings us to the next point.&lt;/p&gt;
+&lt;h2&gt;Memberships Maybe, F&amp;amp;@% Feeds&lt;/h2&gt;
+&lt;p&gt;(Unpaid) subscriptions and feeds are a stain on our lives. This is literally the modern day equivalent of junk mail and I don&amp;rsquo;t think you can convince me otherwise.&lt;/p&gt;
+
+&lt;p&gt;Going back to the first point about interactivity- do you keep a list of your friends, and message them every day? No, you message as things come up or you think of ideas. You riff. Things have highs and lows.&lt;/p&gt;
+
+&lt;p&gt;You should seek out particular ideas. Not be fed some constant stream. The idea of having someone constantly streaming ideas at you originated with whoever came up with junk mail, and never before.&lt;/p&gt;
+
+&lt;p&gt;Paid memberships are different. It goes back to the basic principle that you pay for things that have value. The payment forces you to assess the quality of that which you are given, and encourages you to cut it out when it&amp;rsquo;s no longer useful. In this way, paying for things is beneficial to you.&lt;/p&gt;
 </content>
         </entry>
     
