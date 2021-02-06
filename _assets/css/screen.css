@@ -40,7 +40,7 @@ table {
 body {
   background-size: 25px 25px;
   background-image: linear-gradient(0deg, rgba(217, 203, 155, 0.2) 1.5px, transparent 1.5px), linear-gradient(90deg, rgba(217, 203, 155, 0.2) 1.5px, #fff6cd 1.5px);
-  color: #515144;
+  color: #313124;
   font-family: "Bitter", "Ubuntu", sans-serif;
   font-size: 14px;
   line-height: 18px; }
@@ -64,7 +64,7 @@ dl.horizontal > dt, .archives > dt, .archives-records > dt {
   width: 50px; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #515144;
+  color: #313124;
   font-style: normal;
   font-weight: normal; }
 
@@ -167,7 +167,7 @@ a {
 code {
   padding: 0px 3px;
   background-color: #ffed9a;
-  color: #62614d;
+  color: #32311d;
   font-family: "Inconsolata", "Envy Code R", "Ubuntu Mono", monospace;
   line-height: 17px;
   white-space: pre; }
@@ -321,12 +321,12 @@ div.code {
   font-family: "Patua One", "Ubuntu Mono", sans-serif;
   font-size: 36px; }
   #title > a {
-    color: #515144; }
+    color: #313124; }
     #title > a:hover {
       color: #141414; }
 
 #subtitle {
-  color: #62614d;
+  color: #32311d;
   font-size: 16px; }
 
 #nav {
@@ -341,14 +341,14 @@ div.code {
 
 #breadcrumbs {
   background-color: #fff6cd;
-  color: #62614d;
+  color: #32311d;
   font-family: "Patua One", "Ubuntu Mono", sans-serif;
   font-style: italic; }
   #breadcrumbs > li {
     float: left; }
     #breadcrumbs > li:after {
       padding: 0px 6px;
-      color: #515144;
+      color: #313124;
       font-style: normal;
       content: "›"; }
     #breadcrumbs > li:last-child:after {
@@ -360,7 +360,7 @@ div.code {
 .post-list > .post-meta {
   font-size: 10px; }
   .post-list > .post-meta > a {
-    color: #515144; }
+    color: #313124; }
     .post-list > .post-meta > a:hover {
       color: #141414; }
 
@@ -371,7 +371,7 @@ div.code {
   font-size: 24px; }
 
 .post-meta {
-  color: #62614d;
+  color: #32311d;
   font-style: normal;
   text-transform: uppercase;
   word-spacing: 2px;
@@ -388,7 +388,7 @@ div.code > div {
 
 .linenos {
   background-color: #fff6cd;
-  color: #62614d; }
+  color: #32311d; }
 
 .linenodiv > pre, .highlight > pre {
   padding: 0px;
@@ -402,12 +402,12 @@ div.code > div {
 .archives-year {
   font-size: 18px; }
   .archives-year > a {
-    color: #515144; }
+    color: #313124; }
     .archives-year > a:hover {
       color: #141414; }
 
 .archives-post-date {
-  color: #62614d;
+  color: #32311d;
   font-size: 24px; }
 
 .archives-post-title {
@@ -419,13 +419,13 @@ div.code > div {
   text-transform: none; }
 
 .archives-post-tags {
-  color: #62614d;
+  color: #32311d;
   font-style: normal;
   text-transform: uppercase;
   word-spacing: 2px;
   font-size: 10px; }
   .archives-post-tags > a {
-    color: #515144; }
+    color: #313124; }
     .archives-post-tags > a:hover {
       color: #141414; }
   .archives-post-tags > span {
@@ -461,7 +461,7 @@ div.code > div {
   position: absolute;
   bottom: 0;
   background-color: rgba(255, 246, 205, 0.85);
-  color: #515144;
+  color: #313124;
   width: 100%;
   height: 100%;
   opacity: 0;
@@ -487,7 +487,7 @@ div.code > div {
   transform: translateY(-50%);
   text-align: center;
   width: 100%;
-  color: #515144; }
+  color: #313124; }
 
 em {
   font-style: normal;
@@ -504,7 +504,7 @@ em {
   height: 180px;
   text-align: center;
   vertical-align: middle;
-  color: #515144; }
+  color: #313124; }
 
 #main-header-banner {
   background-image: url("/assets/images/header.svg");

@@ -1,6 +1,6 @@
 ---
 layout: post.html
-title: "Geometric vs. Arithmetic Thinking"
+title: "Arithmetic Thinking is Smoothbrained."
 date: 2020-02-03 19:20:00
 image: phi.jpg
 description: Geometry has been instrumental to philosophy. Let's remember that.
