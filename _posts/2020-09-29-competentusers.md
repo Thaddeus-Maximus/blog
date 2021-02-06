@@ -2,7 +2,6 @@
 layout: post.html
 title: "Designing for Competent Users"
 date: 2020-9-29 18:43:00
-image: cardboard.jpeg
 tags:
  - engineering
  - users

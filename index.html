@@ -16,7 +16,12 @@
             <dd class="archives-post-title"><a href="{{ get_url(post.url) }}">{{ post.title }}</a></dd>
             <br/>
             <dd class="archives-post-preview">
-
+                {% if post.image %}
+                    <center>
+                        <a href="{{ get_url(post.url) }}"><img src="/assets/images/{{ post.image }}" style="width: 70%;" ></a>
+                    </center>
+                    <br/>
+                {% endif %}
                 {{ post.excerpt }}
             </dd>
 

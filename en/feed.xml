@@ -5,7 +5,7 @@
     <link rel="alternate" href="https://blog.thadhughes.xyz/" />
     <link rel="self" href="https://blog.thadhughes.xyz/feed.xml" type="application/atom+xml" />
     <id>https://blog.thadhughes.xyz/</id>
-    <updated>2021-02-06T03:02:14Z</updated>
+    <updated>2021-02-06T03:12:18Z</updated>
 
     <author>
         <name>Thad Hughes</name>
@@ -18,7 +18,7 @@
             <title>The Web as The Real World</title>
             <link rel="alternate" href="https://blog.thadhughes.xyz/web_as_realworld/" type="text/html" />
             <id>https://blog.thadhughes.xyz/web_as_realworld/</id>
-            <updated>2021-02-06T02:51:50Z</updated>
+            <updated>2021-02-06T03:07:06Z</updated>
 
             <summary type="html">For years now people have been trying to &lt;a href=&#34;https://blog.substack.com/p/welcome-facebook-and-twitter-seriously&#34;&gt;fix the internet&lt;/a&gt;. Not a lot of people are talking about modeling and understanding the internet in the first place, though. A lot of folk like myself have a sort of &amp;lsquo;nostalgia&amp;rsquo; for the &amp;lsquo;old internet&amp;rsquo;. That&amp;rsquo;s a nebulous statement, but I think it&amp;rsquo;s right and has some teeth. To understand though, a simple analogue is warranted:</summary>
             <content type="html">&lt;p&gt;For years now people have been trying to &lt;a href=&#34;https://blog.substack.com/p/welcome-facebook-and-twitter-seriously&#34;&gt;fix the internet&lt;/a&gt;. Not a lot of people are talking about modeling and understanding the internet in the first place, though. A lot of folk like myself have a sort of &amp;lsquo;nostalgia&amp;rsquo; for the &amp;lsquo;old internet&amp;rsquo;. That&amp;rsquo;s a nebulous statement, but I think it&amp;rsquo;s right and has some teeth. To understand though, a simple analogue is warranted:&lt;/p&gt;
@@ -77,7 +77,7 @@
             <title>Geometric vs. Arithmetic Thinking</title>
             <link rel="alternate" href="https://blog.thadhughes.xyz/geometric/" type="text/html" />
             <id>https://blog.thadhughes.xyz/geometric/</id>
-            <updated>2021-02-05T05:01:36Z</updated>
+            <updated>2021-02-06T03:05:44Z</updated>
 
             <summary type="html">The development of early western philosophy is undoubtedly intertwined with mathematics, and in particular, geometry.</summary>
             <content type="html">&lt;p&gt;The development of early western philosophy is undoubtedly intertwined with mathematics, and in particular, geometry.&lt;/p&gt;
@@ -207,31 +207,10 @@
         </entry>
     
         <entry>
-            <title>Designing for Competent Users</title>
-            <link rel="alternate" href="https://blog.thadhughes.xyz/competentusers/" type="text/html" />
-            <id>https://blog.thadhughes.xyz/competentusers/</id>
-            <updated>2020-09-29T05:02:00Z</updated>
-
-            <summary type="html">A lot of engineering designs revolve around not allowing the user to “do dumb things”. Honestly, this is a great thing to do. There are many cases, especially in protective equipment that is a matter of life and death, where the potential for harm is far, far too high.</summary>
-            <content type="html">&lt;p&gt;A lot of engineering designs revolve around not allowing the user to “do dumb things”. Honestly, this is a great thing to do. There are many cases, especially in protective equipment that is a matter of life and death, where the potential for harm is far, far too high.&lt;/p&gt;
-
-&lt;p&gt;However, legalism and holding human life as the highest good rather than something divine will always drag human life down, rather than lifting it up. We need danger. We need to afford people the chance to be competent.&lt;/p&gt;
-
-&lt;p&gt;We know this in certain senses automatically- it’s why bureaucracy has a bad name. It’s the exercise of rules designed to weed out bad decisions to the point where not only are good decisions weeded out as well, but the costs required are astronomical. Moldbug once quipped that bureacracies are based on the assumption that all particpants are actively seeking to defraud it.&lt;/p&gt;
-
-&lt;p&gt;We know that societies work on trust. So why don’t we?&lt;/p&gt;
-
-&lt;p&gt;Why do we have that pesky word ‘user’? I really don’t think it’s apt. It puts in your head a sort of default, faceless being which could do any manner of stupid things. It isn’t a title. You don’t go around bestowing people or certifying ‘users’.&lt;/p&gt;
-
-&lt;p&gt;A more hopeful word might be ‘operator’. This implies that the person interacting with your apparatus should be competent, and can be trusted. Now, they might be a bad operator. That happens. But if you shift your mentality away from a ‘user’ (dumb, neutral-or-malificent, undignified) to a ‘bad operator’ (thinking (though wrong), good-intentioned, dignified but did their job wrong), you might start coming to their real level.&lt;/p&gt;
-</content>
-        </entry>
-    
-        <entry>
             <title>The Three S&#39;s</title>
             <link rel="alternate" href="https://blog.thadhughes.xyz/threess/" type="text/html" />
             <id>https://blog.thadhughes.xyz/threess/</id>
-            <updated>2020-09-29T02:14:00Z</updated>
+            <updated>2020-09-29T03:05:00Z</updated>
 
             <summary type="html">When I mentored FLL, I came up with three design principles that I could instill in my students. It seemed to take root. The three S&amp;rsquo;s:
 - Simple
@@ -257,10 +236,31 @@
         </entry>
     
         <entry>
+            <title>Designing for Competent Users</title>
+            <link rel="alternate" href="https://blog.thadhughes.xyz/competentusers/" type="text/html" />
+            <id>https://blog.thadhughes.xyz/competentusers/</id>
+            <updated>2020-09-29T03:05:00Z</updated>
+
+            <summary type="html">A lot of engineering designs revolve around not allowing the user to “do dumb things”. Honestly, this is a great thing to do. There are many cases, especially in protective equipment that is a matter of life and death, where the potential for harm is far, far too high.</summary>
+            <content type="html">&lt;p&gt;A lot of engineering designs revolve around not allowing the user to “do dumb things”. Honestly, this is a great thing to do. There are many cases, especially in protective equipment that is a matter of life and death, where the potential for harm is far, far too high.&lt;/p&gt;
+
+&lt;p&gt;However, legalism and holding human life as the highest good rather than something divine will always drag human life down, rather than lifting it up. We need danger. We need to afford people the chance to be competent.&lt;/p&gt;
+
+&lt;p&gt;We know this in certain senses automatically- it’s why bureaucracy has a bad name. It’s the exercise of rules designed to weed out bad decisions to the point where not only are good decisions weeded out as well, but the costs required are astronomical. Moldbug once quipped that bureacracies are based on the assumption that all particpants are actively seeking to defraud it.&lt;/p&gt;
+
+&lt;p&gt;We know that societies work on trust. So why don’t we?&lt;/p&gt;
+
+&lt;p&gt;Why do we have that pesky word ‘user’? I really don’t think it’s apt. It puts in your head a sort of default, faceless being which could do any manner of stupid things. It isn’t a title. You don’t go around bestowing people or certifying ‘users’.&lt;/p&gt;
+
+&lt;p&gt;A more hopeful word might be ‘operator’. This implies that the person interacting with your apparatus should be competent, and can be trusted. Now, they might be a bad operator. That happens. But if you shift your mentality away from a ‘user’ (dumb, neutral-or-malificent, undignified) to a ‘bad operator’ (thinking (though wrong), good-intentioned, dignified but did their job wrong), you might start coming to their real level.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
             <title>A Love Letter to Cardboard</title>
             <link rel="alternate" href="https://blog.thadhughes.xyz/ode_to_cardboard/" type="text/html" />
             <id>https://blog.thadhughes.xyz/ode_to_cardboard/</id>
-            <updated>2020-09-08T02:41:00Z</updated>
+            <updated>2020-09-08T03:08:00Z</updated>
 
             <summary type="html">&lt;a href=&#34;https://www.youtube.com/watch?v=pVxldyIa0Bg&#34;&gt;Steel is the king of building materials. Plywood is the queen.&lt;/a&gt;</summary>
             <content type="html">&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=pVxldyIa0Bg&#34;&gt;Steel is the king of building materials. Plywood is the queen.&lt;/a&gt;&lt;/p&gt;

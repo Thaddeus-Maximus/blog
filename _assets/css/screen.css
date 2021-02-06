@@ -203,7 +203,7 @@ sup {
 
 #container {
   margin-top: 18px;
-  width: 960px; }
+  width: 1080px; }
   @media screen and (max-width: 700px) {
     #container {
       width: 100%; } }
@@ -257,12 +257,12 @@ sup {
   left: 254px;
   margin: 0px;
   padding: 9px;
-  width: 688px; }
+  width: 808px; }
 
 #content {
   margin: 18px 0px;
   margin-left: 254px;
-  width: 706px; }
+  width: 826px; }
   #content > :first-child {
     margin-top: 0px; }
   #content > :last-child {

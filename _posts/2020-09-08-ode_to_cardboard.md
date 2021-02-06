@@ -2,7 +2,7 @@
 layout: post.html
 title: "A Love Letter to Cardboard"
 date: 2020-9-8 08:54:00
-image: cardboard.jpeg
+image: cardboard.jpg
 tags:
  - engineering
  - prototyping

@@ -2,7 +2,7 @@
 layout: post.html
 title: "Geometric vs. Arithmetic Thinking"
 date: 2020-02-03 19:20:00
-image: geometric.jpg
+image: phi.jpg
 description: Geometry has been instrumental to philosophy. Let's remember that.
 tags:
  - philosophy
