@@ -9,6 +9,7 @@
 {% endblock %}
 
 {% block content %}
+
     {% for post in posts.items %}
         <dl class="archives">
             <dt class="archives-post-date">{{ post.date.strftime('%Y %b %d') }}</dt>
