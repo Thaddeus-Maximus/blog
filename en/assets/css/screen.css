@@ -159,7 +159,7 @@ th {
   text-align: left; }
 
 a {
-  color: #268bd2;
+  color: #0262d5;
   text-decoration: underline; }
   a:hover {
     color: #141414; }
@@ -174,7 +174,7 @@ code {
   pre code {
     padding: 0px;
     background-color: transparent;
-    color: #268bd2;
+    color: #0262d5;
     line-height: 18px; }
   table code {
     background-color: #fff6cd; }
