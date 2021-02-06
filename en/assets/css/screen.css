@@ -51,7 +51,7 @@ blockquote, dl, ol, p, pre, table, ul {
 blockquote {
   overflow: hidden;
   padding: 0px 18px;
-  background-color: #eeef6f; }
+  background-color: #fbfc8f; }
 
 dl.horizontal > dd, .archives > dd, .archives-records > dd {
   margin-left: 65px; }
@@ -134,11 +134,11 @@ p {
 
 pre {
   padding: 0px 3px;
-  background-color: #eeef6f;
+  background-color: #fbfc8f;
   font-family: "Inconsolata", "Envy Code R", "Ubuntu Mono", monospace; }
 
 table {
-  background-color: #eeef6f;
+  background-color: #fbfc8f;
   border-collapse: collapse; }
 
 td, th {
@@ -166,7 +166,7 @@ a {
 
 code {
   padding: 0px 3px;
-  background-color: #eeef6f;
+  background-color: #fbfc8f;
   color: #32311d;
   font-family: "Inconsolata", "Envy Code R", "Ubuntu Mono", monospace;
   line-height: 17px;
@@ -186,7 +186,7 @@ img {
   vertical-align: bottom; }
   a > img {
     padding: 5px;
-    background-color: #eeef6f; }
+    background-color: #fbfc8f; }
 
 strong {
   font-weight: bold; }
@@ -314,7 +314,7 @@ div.code {
   padding: 0px; }
 
 #sidebar, #topbar {
-  background-color: #eeef6f;
+  background-color: #fbfc8f;
   font-style: italic; }
 
 #title {
@@ -365,7 +365,7 @@ div.code {
       color: #141414; }
 
 .post-title, .post-meta {
-  background-color: #eeef6f; }
+  background-color: #fbfc8f; }
 
 .post-title {
   font-size: 24px; }
@@ -381,7 +381,7 @@ div.code {
     top: -1px; }
 
 div.code > div {
-  background-color: #eeef6f; }
+  background-color: #fbfc8f; }
 
 .highlighttable {
   background-color: transparent; }
@@ -395,7 +395,7 @@ div.code > div {
   background-color: transparent; }
 
 .archives {
-  background-color: #eeef6f;
+  background-color: #fbfc8f;
   font-style: italic;
   text-transform: uppercase; }
 
@@ -437,7 +437,7 @@ div.code > div {
   width: 100%; }
 
 .tile {
-  background-color: #eeef6f;
+  background-color: #fbfc8f;
   vertical-align: middle;
   font-family: "Patua One", "Ubuntu", sans-serif;
   width: 250px;
