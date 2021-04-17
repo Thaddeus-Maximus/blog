@@ -38,8 +38,9 @@ table {
   border-collapse: collapse; }
 
 body {
+  background-color: #fefbaf;
   background-size: 25px 25px;
-  background-image: linear-gradient(0deg, rgba(217, 203, 155, 0.4) 1.5px, transparent 1.5px), linear-gradient(90deg, rgba(217, 203, 155, 0.4) 1.5px, #fefbaf 1.5px);
+  background-image: linear-gradient(0deg, rgba(47, 43, 15, 0.05) 1.5px, transparent 1.5px), linear-gradient(90deg, rgba(47, 43, 15, 0.05) 1.5px, transparent 1.5px);
   color: #313124;
   font-family: "Bitter", "Ubuntu", sans-serif;
   font-size: 14px;
@@ -327,7 +328,7 @@ div.code {
 
 #subtitle {
   color: #32311d;
-  font-size: 16px; }
+  font-size: 18px; }
 
 #nav {
   font-family: "Patua One", "Ubuntu Mono", sans-serif;
@@ -356,9 +357,9 @@ div.code {
       content: none; }
 
 .post-list > .post-title {
-  font-size: 16px; }
+  font-size: 18px; }
 .post-list > .post-meta {
-  font-size: 10px; }
+  font-size: 14px; }
   .post-list > .post-meta > a {
     color: #313124; }
     .post-list > .post-meta > a:hover {
@@ -375,7 +376,7 @@ div.code {
   font-style: normal;
   text-transform: uppercase;
   word-spacing: 2px;
-  font-size: 11px; }
+  font-size: 14px; }
   .post-meta > span {
     position: relative;
     top: -1px; }

@@ -5,7 +5,7 @@
     <link rel="alternate" href="https://blog.thadhughes.xyz/" />
     <link rel="self" href="https://blog.thadhughes.xyz/feed.xml" type="application/atom+xml" />
     <id>https://blog.thadhughes.xyz/</id>
-    <updated>2021-04-14T00:29:21Z</updated>
+    <updated>2021-04-17T02:23:10Z</updated>
 
     <author>
         <name>Thad Hughes</name>
@@ -13,6 +13,69 @@
         <uri>https://blog.thadhughes.xyz/</uri>
     </author>
 
+    
+        <entry>
+            <title>Immunity is a Spectrum.</title>
+            <link rel="alternate" href="https://blog.thadhughes.xyz/immunity_spectrum/" type="text/html" />
+            <id>https://blog.thadhughes.xyz/immunity_spectrum/</id>
+            <updated>2021-04-17T02:09:49Z</updated>
+
+            <summary type="html">I should have wrote this a year ago. Some things are crystal clear in hindsight. Disclaimer: this whole piece is conjecture. I play with ideas. Increasingly I view my job as to get general forms and trends, and try out different ideas. Less black and white (ironic, coming from a moral absolutist). Which flows nicely into the hypothesis I&amp;rsquo;m putting forth, which seems pretty uncontroversial, but has horribly controversial rammifications if true: &lt;strong&gt;Immunity is on a spectrum.&lt;/strong&gt;</summary>
+            <content type="html">&lt;p&gt;I should have wrote this a year ago. Some things are crystal clear in hindsight. Disclaimer: this whole piece is conjecture. I play with ideas. Increasingly I view my job as to get general forms and trends, and try out different ideas. Less black and white (ironic, coming from a moral absolutist). Which flows nicely into the hypothesis I&amp;rsquo;m putting forth, which seems pretty uncontroversial, but has horribly controversial rammifications if true: &lt;strong&gt;Immunity is on a spectrum.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/assets/images/sir.png&#34; alt=&#34;S-I-R Process&#34;&gt;&lt;/p&gt;
+&lt;h1&gt;S-I-R Model&lt;/h1&gt;
+&lt;p&gt;Early when COVID-mania started making its way through the globe, everyone jumped to these things called S-I-R models (susceptible, infected, recovered). The general idea being you can lump people into three general categories: susceptible, infected, and recovered. This is&amp;hellip; well it&amp;rsquo;s a model, certainly. Models are useful insofar as they contain the underlying physics. The model of S-I-R is quite benign:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The rate at which people transfer from susceptible to infected is proportional to the population that is susceptible, and infected, and a constant (let&amp;rsquo;s use β).&lt;/li&gt;
+&lt;li&gt;The rate at which people transfer from infected to recovered is proportional to the population that is infected, and a (different) constant (let&amp;rsquo;s use γ).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What is this physics implying? There&amp;rsquo;s some magic constants β and γ that dictate how this disease will spread. There can be a lot of factors that go into β and γ. It&amp;rsquo;s hard to get a good guess unless you actually correlate against data&amp;hellip; yadda yadda&amp;hellip; the important thing is we&amp;rsquo;ve lumped everything into β and γ, and we&amp;rsquo;ve created &amp;lsquo;populations&amp;rsquo;. These populations do not consist of individuals, they are just populations. We assume that the constants apply evenly across the population.&lt;/p&gt;
+
+&lt;p&gt;If the S-I-R model is, in your mind, how disease spreads, you&amp;rsquo;re going to be thinking of things that influence the constants. That is to say, you think of how you can impact &lt;em&gt;everyone&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The trouble, of course, is that these populations are quite vastly different in most cases. Not everyone&amp;rsquo;s β will be the same. A lot of people will acknowledge this- but here&amp;rsquo;s the interesting thing. Instead of asking &amp;ldquo;are there behaviors that individuals with low βs have in common&amp;rdquo;? They just write off that &amp;ldquo;your β is your β&amp;hellip; and we just average the lot. We have to increase the average β by increasing everyone&amp;rsquo;s β&amp;rdquo;. This is foolish if there are some individuals whose β is practically zero, and some whose β is nearly one.&lt;/p&gt;
+&lt;h1&gt;Severity is on a spectrum.&lt;/h1&gt;
+&lt;p&gt;The other interesting aspect to consider is that even the difference between S, I, and R populations is not so black and white. It&amp;rsquo;s really more of a scale.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Zero exposure to disease&lt;/li&gt;
+&lt;li&gt;Disease caught, no symptoms, full recovery&lt;/li&gt;
+&lt;li&gt;Disease caught, mild symptoms, full recovery&lt;/li&gt;
+&lt;li&gt;Disease caught, ICU required, full recovery&lt;/li&gt;
+&lt;li&gt;Disease caught, ICU required, partial recovery (chronic symptoms or sideaffects)&lt;/li&gt;
+&lt;li&gt;Disease caught, ICU required, no recovery (death)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(Whether or not the last two are in the right order is an interesting question, but beyond our scope).&lt;/p&gt;
+
+&lt;p&gt;Being higher up on the list is better. Denying that there is a spectrum is nonsense. Being at level three is not a bad outcome- it&amp;rsquo;s a totally different cost than level 4 or 5. If your metrics do not capture severity, not only are you throwing away data that can be used to make appropriate cost-benefit analyses, you&amp;rsquo;re throwing away data that can help you understand &amp;lsquo;what are the risk factors for complications&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;Mild symptoms are better than requiring ICU admission.&lt;/p&gt;
+&lt;h1&gt;Immunity is on a spectrum.&lt;/h1&gt;
+&lt;p&gt;Immunity causes non-severity. The more immune you are, the more capable you are of fighting off an infection before things go south. We know that in the range from mild-symptoms to death, there are some pretty obvious risk factors. Would it be unreasonable to expand them all the way down to the zero-severity cases? I don&amp;rsquo;t see a clear reason why these risk factors should &amp;lsquo;cut off&amp;rsquo; at the &amp;lsquo;no symptoms&amp;rsquo; stage- immunity scales all the way across severity. Immunity is inversely proportional to severity.&lt;/p&gt;
+
+&lt;p&gt;Vis a vis, immunity is on a spectrum.&lt;/p&gt;
+
+&lt;p&gt;If it&amp;rsquo;s on a spectrum we can probably make mild shifts and nudges. There are things we can do to move towards the higher end of immunity beyond innoculation.&lt;/p&gt;
+
+&lt;p&gt;The presence of innoculations touting near β=0 levels of immunity seems to overshadow that the spectrum still exists&amp;hellip; but it does nonetheless. If our goals are long-term health, we really should be seeking not to put all our eggs and resources in one basket by setting the β of one disease to zero, but seeking to holistically understand what causes a lack of immunity, and from there, foster generally high immunity across a wide swath of diseases. The answer may not be innoculation. The answer may be learning to master immunity and &lt;strong&gt;everything&lt;/strong&gt; that goes into it.&lt;/p&gt;
+
+&lt;p&gt;Let me look both ways before crossing the street here&amp;hellip; are you still there? OK. Let me walk right into this bus.&lt;/p&gt;
+&lt;h1&gt;Fighting the next war.&lt;/h1&gt;
+&lt;p&gt;COVID was mild. It was nothing. It has a fairly reasonable-to-understand set of risk factors (don&amp;rsquo;t be inflammed, don&amp;rsquo;t be obese, don&amp;rsquo;t be vitamin-deficient, don&amp;rsquo;t&amp;hellip; well, you don&amp;rsquo;t really have control over your age). It should have been &lt;em&gt;cake&lt;/em&gt; to bolster immunity, but it wasn&amp;rsquo;t. The general societal mindset has been &amp;ldquo;wait for a vaccine&amp;rdquo; or &amp;ldquo;it&amp;rsquo;ll just run its course&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Will we learn from this folly?&lt;/p&gt;
+
+&lt;p&gt;Whenver I think about vaccination, I think about the general quote cited by those critical of militaries: &amp;ldquo;soldiers are always training to fight the last war&amp;rdquo;; &amp;ldquo;economists are always ready to fight the last depression&amp;rdquo;. Vaccination is &lt;em&gt;reactive&lt;/em&gt;. General immunity is &lt;em&gt;proactive&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Vaccine manufacturers are suggesting that booster shots will be required. Yeah&amp;hellip; this is a rider on humanity. It isn&amp;rsquo;t &amp;ldquo;just the flu, bro&amp;rdquo;&amp;hellip; it&amp;rsquo;s the new flu, bro. (Whether it was destined to be, is an interesting question). It will evolve, and continue to evolve. Immunity via innoculation has the same pitfalls of any corporate affair: information takes time to travel up from the field to planners.&lt;/p&gt;
+
+&lt;p&gt;What happens when we have the next COVID? Will we have to put a pause on humanity again? Or maybe, we can start looking back at this year, look at the data, and learn some valuable lessons about how immunity works and how we can produce general immunity for &lt;em&gt;any&lt;/em&gt; disease. Is that too much to hope for?&lt;/p&gt;
+</content>
+        </entry>
     
         <entry>
             <title>Failure to Feast.</title>
@@ -38,63 +101,6 @@
 &lt;p&gt;The key here isn&amp;rsquo;t so much that there is material good and luxury and feel-good. The key is that the luxury and feel-good is the &lt;em&gt;result&lt;/em&gt; of all the other activity. Fully automatic luxury space communism does not bring the same joy that hard week&amp;rsquo;s work and a banquet at the end of it all does. Even a jail cell with three square meals is hardly model of joy, even if the average consumption of utility is the same or better. No, the joy arises clearly not from luxuries, or from the laboring for them, but in the relationship between the two.&lt;/p&gt;
 
 &lt;p&gt;The joy of a feast does not stand high because it is of a better nature than the fast. The joy of a feast is high precisely because it is built out of the works of the fast. But when we are done fasting, we must enjoy the feast we have built.&lt;/p&gt;
-</content>
-        </entry>
-    
-        <entry>
-            <title>Alegria vs. Icons</title>
-            <link rel="alternate" href="https://blog.thadhughes.xyz/alegria_vs_icons/" type="text/html" />
-            <id>https://blog.thadhughes.xyz/alegria_vs_icons/</id>
-            <updated>2021-03-14T05:52:26Z</updated>
-
-            <summary type="html">The &lt;a href=&#34;https://buck.co/work/facebook-alegria&#34;&gt;Alegria&lt;/a&gt; style has become something of a meme. Well, mocking it has. Some have dubbed it &lt;a href=&#34;https://duckduckgo.com/?q=globohomo+art&amp;amp;t=h_&amp;amp;iax=images&amp;amp;ia=images&#34;&gt;&amp;lsquo;globohomo&amp;rsquo; (globalist homogenization&amp;hellip; but let&amp;rsquo;s be frank, it&amp;rsquo;s also an allusion to it being &amp;lsquo;gay&amp;rsquo;)&lt;/a&gt; (use duckduckgo, not Google, for best results) and have memed it nicely. </summary>
-            <content type="html">&lt;p&gt;The &lt;a href=&#34;https://buck.co/work/facebook-alegria&#34;&gt;Alegria&lt;/a&gt; style has become something of a meme. Well, mocking it has. Some have dubbed it &lt;a href=&#34;https://duckduckgo.com/?q=globohomo+art&amp;amp;t=h_&amp;amp;iax=images&amp;amp;ia=images&#34;&gt;&amp;lsquo;globohomo&amp;rsquo; (globalist homogenization&amp;hellip; but let&amp;rsquo;s be frank, it&amp;rsquo;s also an allusion to it being &amp;lsquo;gay&amp;rsquo;)&lt;/a&gt; (use duckduckgo, not Google, for best results) and have memed it nicely. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/assets/images/alegria_biden.jpg&#34; alt=&#34;Sniff Sniff&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;A huge portion of people&amp;rsquo;s complaint over this style, is, make no mistake, the messenger: tech corporations (big, small, VC-backed, and all other shapes and sizes). The mom and pop diner down the street doesn&amp;rsquo;t have these flat, disproportioned humanoids plastered over their walls.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Yeah I like it as well, but I think its because its associated with big tech companies that try to be relatable with cringey captions such as &amp;ldquo;we are all in this together&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ndash; &lt;cite&gt;Reddit User 0xB01b&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/fuckalegriaart/&#34;&gt;There&amp;rsquo;s more on Reddit&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/assets/images/butttrumpet.png&#34; alt=&#34;Not Monty Python.&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;But there&amp;rsquo;s more to it than association. And it&amp;rsquo;s not just about swoopy silly images. If there&amp;rsquo;s one common braid among human &amp;lsquo;art&amp;rsquo; it&amp;rsquo;s strange images. &lt;a href=&#34;https://www.sadanduseless.com/tubas/&#34;&gt;Everyone loves a good butt trumpet&lt;/a&gt;. There&amp;rsquo;s something else that makes Alegria mere graphic design, and not art. Comparing it to western art of the past 4-5 centuries, of course, is like comparing apples to oranges, though&amp;hellip; we need more similar fruit.&lt;/p&gt;
-&lt;h2&gt;Realism?&lt;/h2&gt;
-&lt;p&gt;Art doesn&amp;rsquo;t have to be realistic. Some of my favorite- the Byzantine style- is &lt;em&gt;notoriously&lt;/em&gt; grotesque (at least, to the uninitated) and unrealistic. I&amp;rsquo;m by no means an expert in iconography. I&amp;rsquo;ll leave that &lt;a href=&#34;https://orthodoxartsjournal.org/&#34;&gt;to others&lt;/a&gt;, but don&amp;rsquo;t see a lot of people drawing the comparison between icons and Alegria so here we are.&lt;/p&gt;
-
-&lt;p&gt;The distortion of icons is something which serves a more practical purpose in the context of liturgical or divine images. You are probably familiar with the &lt;a href=&#34;https://www.newadvent.org/cathen/07620a.htm&#34;&gt;iconoclast heresy&lt;/a&gt; or at least understand the general idea of &amp;lsquo;thou shalt not make graven images&amp;rsquo;. We the viewers immediately recognize the distortion, and register that this is &lt;em&gt;not&lt;/em&gt; the thing itself. It is a representation, or better yet, a &lt;em&gt;window&lt;/em&gt; (a window to heaven, one might say).&lt;/p&gt;
-&lt;h2&gt;All Media is A Lens.&lt;/h2&gt;
-&lt;p&gt;All media is a window into the underlying subject. Even photography is a distortion of the subject insofar as we are given a particular exposure, framing, angle, depth-of-field, and so on. We will not grasp the whole subject. But grasping the subject in its entirety is a vain exercise: not every detail is important. Thus, distortion is not in and of itself bad. Distortion can be used to highlight and emphasize particular elements.&lt;/p&gt;
-
-&lt;p&gt;In the Byzantine (and pre-renaissance western) style, this is recognized quite explicity, as icons are &amp;lsquo;windows into heaven&amp;rsquo; (not divine, just ways by which we may make &lt;em&gt;real&lt;/em&gt; contact with the divine). The key features which we must be mindful to are not worldly, but were made manifest in the world- as such, distortion should be embraced to magnify the divine, resulting in some strange images by photorealistic standards.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/assets/images/icon_vladimir.jpg&#34; alt=&#34;Icon of Our Lady of the Vladimir&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;What&amp;rsquo;s this baby doing with fully developed facial features? How&amp;rsquo;s he reaching all the way around Our Lady&amp;rsquo;s head? Why the long faces? This is clearly not a picture-perfect image. But making it so would be a disservice- Our Lord was the &lt;em&gt;Godhead&lt;/em&gt; made incarnate, not just some infant. By placing the hand around her, it shows endearment and dependence towards Our Lady moreso that simply drawing close.&lt;/p&gt;
-
-&lt;p&gt;So distortion can be good. Alegria is distorted. But is it distorted choicefully? Honestly, it can&amp;rsquo;t be.&lt;/p&gt;
-&lt;h2&gt;Art has Telos&lt;/h2&gt;
-&lt;p&gt;What, pray tell, is the truth that Alegria is pointing towards? All it can be said to do is arouse the emotions, particularly that of comfort. The first image shows&amp;hellip; friends? holding flowers? The goal of this style is clearly not to point to some truth or educate. It isn&amp;rsquo;t even to train and align the emotions together. It is to mechanistically evoke a simple comfort.&lt;/p&gt;
-
-&lt;p&gt;Put bluntly, it&amp;rsquo;s propoganda. Though &amp;ldquo;thesis&amp;rdquo; isn&amp;rsquo;t the right word for most liturgical images, if Alegria had one, it would be Hedonism.&lt;/p&gt;
-
-&lt;p&gt;Why is her skin purple? Why is this guy&amp;rsquo;s head a size too small? Why are his hands bigger than his head? Is this to symbolize that every single person is a bag, fat, small-brained, bumbling oaf? I&amp;rsquo;m not convinced that it is. At most, it&amp;rsquo;s that way because it&amp;rsquo;s &amp;lsquo;cute&amp;rsquo; (which, unfortunately, tends to mean &amp;lsquo;castrated&amp;rsquo;).&lt;/p&gt;
-
-&lt;p&gt;To be fully fair- Alegria never set out to accomplish any of this. It set out to make you feel better about wasting your life in blue hell. But this is why it isn&amp;rsquo;t artistic, and is mere graphic design.&lt;/p&gt;
-&lt;h2&gt;Generating Motifs&lt;/h2&gt;
-&lt;p&gt;The subject of Alegria graphic design is never a particular person. It is always some hypothetical person. Not just some &amp;lsquo;everyman&amp;rsquo;, Alegria aims to represent a completely hypothetical and absurd person. Like it or not people don&amp;rsquo;t identify with the human race. They identify with partiulars.&lt;/p&gt;
-
-&lt;p&gt;When we read an icon, we are inserting and bringing our contextual understanding of elements in the images, which enables a great deal of depth. Alegria has some of this at least insofar as it still has &amp;lsquo;props&amp;rsquo; from the physical world. But some motifs come &lt;em&gt;from&lt;/em&gt; icons, not only &lt;em&gt;into&lt;/em&gt; icons. When&amp;rsquo;s the last time you&amp;rsquo;ve physically seen a halo? Yet, you understand the halo motif, even if you have never had it explained to you.&lt;/p&gt;
-
-&lt;p&gt;Alegria not only fails to accomplish this, it actively seeks to not produce patterns. We can&amp;rsquo;t associate a stout build with strength- everyone is stoutly built. Color means nothing. Pick ANY aspect of a person, and you&amp;rsquo;ll find that it doesn&amp;rsquo;t correlate to anything throughout the style. This is &lt;em&gt;clearly&lt;/em&gt; a politically-correct-esque, deliberate, design choice. Emergent meanings have been deliberately written out.&lt;/p&gt;
-
-&lt;p&gt;What&amp;rsquo;s interesting to me is that when these meme-edits of Alegria art are produced, and inevitably reference real-world incarnations (see Biden meme above), they make &lt;em&gt;more sense&lt;/em&gt; because they have a connection and a purpose. the connection and purpose &lt;em&gt;fills in the blanks&lt;/em&gt; that exist within the minimalist art style. Icons don&amp;rsquo;t need to be insanely complex- their belonging to a larger tradition causes the reader to (correctly, I might add) interpolate meaning into them.&lt;/p&gt;
 </content>
         </entry>
     
